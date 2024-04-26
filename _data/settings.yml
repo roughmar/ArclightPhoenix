@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Arclight Primer',  url: 'arclight-primer'}
 - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Apps',       url: 'apps'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 

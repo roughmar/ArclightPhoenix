@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: city-1.jpg
+title: "Sideboard Guide"
+author: "Roughmar"
+categories: arclight-primer
+tags: [noob,primer]
+image: fiery_impulse.webp
 ---
 
 # Millennial

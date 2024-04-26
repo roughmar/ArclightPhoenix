@@ -2,8 +2,8 @@
 layout: post
 title: "Arclight Primer!"
 author: "Roughmar"
-categories: documentation
-tags: [documentation,sample]
+categories: arclight-primer
+tags: [primer]
 image: opt.webp
 ---
 
