@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Primer
+category: primer
 permalink: /primer
 ---
 
