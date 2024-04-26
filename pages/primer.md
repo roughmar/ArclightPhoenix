@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: Primer
 category: primer
 permalink: /primer
