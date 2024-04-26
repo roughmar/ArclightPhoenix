@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Arclight Primer',  url: 'arclight-primer'}
+- {name: 'Primer',  url: 'primer'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Apps',       url: 'apps'}
 - {name: 'About',              url: 'about'}

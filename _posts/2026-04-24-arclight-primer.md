@@ -2,7 +2,7 @@
 layout: post
 title: "Arclight Primer!"
 author: "Roughmar"
-categories: arclight-primer
+categories: primer
 tags: [primer]
 image: opt.webp
 ---
