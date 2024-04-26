@@ -3,7 +3,7 @@ layout: post
 title: "Sideboard Guide"
 author: "Roughmar"
 categories: arclight-primer
-tags: [noob,primer]
+tags: [noob,primer,sideboard]
 image: fiery_impulse.webp
 ---
 
