@@ -51,7 +51,7 @@ I won't be constantly updating this with a list, or a sideboard guide, and the m
 ### Why play Arclight?
 
 Over the relative small time Pioneer has been up, Phoenix has stood firmly in the upper tier echelons.
-Not as powerful as the modern version during Hogaak Summer, the pioneer version has one thing that the modern version never had - access to [Treasure Cruise](https://cards.scryfall.io/large/front/7/a/7a59d4b1-6cf4-44ec-8a96-1bb7094fea21.jpg?1562788963)
+Not as powerful as the modern version during Hogaak Summer, the pioneer version has one thing that the modern version never had - access to [Treasure Cruise](https://scryfall.com/card/otc/120/treasure-cruise)
 
 When trying to describe what Phoenix is, most people have it wrong. Some people say it's a combo deck, others will say control. After some time playing the format, some player's will say it's an Aggro/Tempo deck.
 
@@ -59,7 +59,7 @@ It's not.
 
 >Phoenix is a Storm Deck(...) I see the deck similar to Storm/Scapeshift where you make land drops and develop yourself until you get enough resources to cast Timewalk and just win - _Daniel Goetschel_
 
-On previous iterations of the 75, [Pieces of the Puzzle](https://cards.scryfall.io/large/front/6/9/69204c83-2e43-4ca1-a4cd-d75399a7d6dd.jpg?1576384174) (we will talk about this card [later](#pieces-of-the-puzzle))
+On previous iterations of the 75, [Pieces of the Puzzle](https://scryfall.com/card/soi/78/pieces-of-the-puzzle) (we will talk about this card [later](#pieces-of-the-puzzle)) and [Expressive Iteration](https://scryfall.com/card/stx/186/expressive-iteration)
 
 ## Installation
 
