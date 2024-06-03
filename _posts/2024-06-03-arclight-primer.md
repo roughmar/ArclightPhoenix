@@ -19,9 +19,10 @@ image: opt.webp
    1. [Cantrips](#cantrips)
    2. [Single Target Removal](#single-target)
    3. [Picklock Prankster](#picklock-prankster)
-   4. [Treasure Cruise](#treasure-cruise)
-   5. [Turn Package](#turn-package)
-   6. [Creatures](#creatures)
+   4. [Delve Spells](#delve-spells)
+   5. [Treasure Cruise](#treasure-cruise)
+   6. [Turn Package](#turn-package)
+   7. [Creatures](#creatures)
 4. [Features](#features)
    1. [Design Considerations](#design-considerations)
    2. [Disqus](#disqus)
@@ -68,42 +69,31 @@ Phoenix is mostly all about the grave. The namesake wants to be there, cruise wa
 Like most broken decks, trying to beat phoenix the conventional way doesn't usually work, but the deck is very easily hated on. We'll cover what you can expect to go against post board, and what to do against it, [here](#problem-cards).
 
 
-## Installation
+## Deck Structure
 
-### GitHub Pages Installation
+### Classical Structure
 
-To start using Jekyll right away with GitHub Pages, [fork the Millennial repository on GitHub](https://github.com/LeNPaul/Millennial/fork). From there, you can rename your repository to 'USERNAME.github.io', where 'USERNAME' is your GitHub username, and edit the `settings.yml` file in the `_data` folder to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at 'http://USERNAME.github.io'. Note: if you are hosting several sites under the same GitHub username, then you will have to use [Project Pages instead of User Pages](https://help.github.com/articles/user-organization-and-project-pages/) - just change the repository name to something other than 'http://USERNAME.github.io'.
-
-Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
-
-### Local Installation
-
-For a full local installation of Millennial, [download your own copy of Millennial](https://github.com/LeNPaul/Millennial/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, enter `bundle install`, and then enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
-
-### Directory Structure
-
-If you are familiar with Jekyll, then the Millennial directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
+Phoenix is a deck that keeps evolving over new entrances on the card pool, as well as the meta, but the bread and butter doesn't change much:
 
 ```bash
-Millennial/
-├── _data                      # Data files
-|  └── settings.yml            # Theme settings and custom text
-├── _includes                  # Theme includes
-├── _layouts                   # Theme layouts (see below for details)
-├── _posts                     # Where all your posts will go
-├── assets                     # Style sheets and images are found here
-|  ├── css                     # Style sheets go here
-|  |  └── _sass                # Folder containing SCSS files
-|  |  └── main.scss            # Main SCSS file
-|  |  └── syntax.css           # Style sheet for code syntax highlighting
-|  └── img                     # Images go here
-├── pages                      # Category pages
-├── _config.yml                # Site build settings
-├── Gemfile                    # Ruby Gemfile for managing Jekyll plugins
-├── index.md                   # Home page
-├── LICENSE.md                 # License for this theme
-├── README.md                  # Includes all of the documentation for this theme
-└── rss-feed.xml               # Generates RSS 2.0 file which Jekyll points to
+Main Deck/
+├── 8 Creatures                     # 4 Arclight Phoenix
+|  ├── 4 Shredder                   # Best creature overall
+|  └── 4 Thing in the Ice           # The OG, meta dependant
+├── 12 Cantrips                     # Air. to breathe
+├── 8 Single target removal         # Fire. so they don't
+├── 4 Grave Fillers/Card Selection  # Gas for cruise, binning phoenixes and threat prep
+|  ├── Pieces of the Puzzle         # Classic best worst card
+|  └── Picklock Prankster           # New kid on the block, here to stay
+├── 5 (+1 Fork) Delve Spells        # Seems too specific. [It isn't](#delve-spells).
+|  ├── 3-4 Treasure Cruise          # Water. So they choke
+|  └── Turns Package                # The thing that wins you game one
+|     ├── 1-2 Temp. Trespass        # The stuff that leaves most often game 2
+|     └── 1-2 Galv. Iteration       # Sometimes this stays
+├── 17-19 Lands                     # Earth. Cause I need to put it somewhere
+├── 3 Flex Slots                    # Which are usually the same culprits
+|  ├── 2 Spell Pierce               # It's not a control deck
+|  └── 1 Brazen Borrower            # But you can always try to make it act like one.
 ```
 
 ### Starting From Scratch
