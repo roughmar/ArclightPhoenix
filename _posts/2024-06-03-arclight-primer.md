@@ -15,8 +15,9 @@ image: opt.webp
    3. [Classical Deck Structure](#classical_structure)
 2. [Mulligans](#mulligans)
    1. [What to expect from a 7 hander](#7hander)
-   2. [Why is it ok to be agressive at mulliganing against certain matchups](#aggro-mulligan)
-3. [Card Notes](#card-notes)
+   2. [Ship it. Do it often.](#aggro-mulligan)
+3. [Quantum State](#quantum-state)
+4. [Card Notes](#card-notes)
    1. [Cantrips](#cantrips)
    2. [Single Target Removal](#single-target)
    3. [Picklock Prankster](#picklock-prankster)
@@ -64,21 +65,21 @@ Phoenix is a deck that keeps evolving over new entrances on the card pool, as we
 ```bash
 Main Deck/
 ├── 8 Creatures                     # 4 Arclight Phoenix
-|  ├── 4 Shredder                   # Best creature overall
+|  ├── 4 Ledger Shredder            # Best creature overall
 |  └── 4 Thing in the Ice           # The OG, meta dependant
 ├── 12 Cantrips                     # Air. to breathe
 ├── 8 Single target removal         # Fire. so they don't
-├── 4 Grave Fillers/Card Selection  # Gas for cruise, binning phoenixes and threat prep
+├── 4 Grave Fillers/Card Selection  # Gas for cruise, binning phoenixes
 |  ├── Pieces of the Puzzle         # Classic best worst card
 |  └── Picklock Prankster           # New kid on the block, here to stay
-├── 5 (+1 Fork) Delve Spells        # Seems too specific. [It isn't](#delve-spells).
+├── 5 (+1 Fork) Delve Spells        # Seems too specific. (It isn't)
 |  ├── 3-4 Treasure Cruise          # Water. So they choke
 |  └── Turns Package                # The thing that wins you game one
-|     ├── 1-2 Temp. Trespass        # The stuff that leaves most often game 2
+|     ├── 1-2 Temp. Trespass        # The stuff that leaves most often
 |     └── 1-2 Galv. Iteration       # Sometimes this stays
 ├── 17-19 Lands                     # Earth. Cause I need to put it somewhere
-|  └── 2 MDFC                       # More than 2 is usually trolling. Can be cool cause you can see them with the Grave Fillers                     
-├── 3 Flex Slots                    # Which are usually the same culprits
+|  └── 2 MDFC                       # More than 2 is usually trolling                     
+├── 3 Flex Slots                    # Usually aren't that flexxy tho:
 |  ├── 2 Spell Pierce               # It's not a control deck
 |  └── 1 Brazen Borrower            # But you can always try to make it act like one.
 ```
@@ -86,3 +87,15 @@ Main Deck/
 ## Mulligans
 
 This is the part you seriously need to read if you are starting with the deck.
+The whole thing about Phoenix is understanding that the match, at least in game 1, is all about spending your mana, building up for future Treasure Cruises, all the while mantaining  the battlefield in a manageable state.
+I understand that mulliganing leaves your initial options slimmer, but unless you are against a deck with hand disruption (eg: [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize) or [Duress](https://scryfall.com/card/usg/132/duress)), you can and should aggressively mulligan to be able to build your plan.
+
+The number one issue I see people doing is keeping hands that seem great in the long run (+2 Delve Spells in Hand), or having a lot of removal without knowing the opposing matchup.
+On the other hand, I tend to see people mulliganing away hands that are perfectly reasonable and due to confirmation bias (or failure to believe in the [quantum state](#quantum-state) the deck offers), mulligan away Air hands.
+
+### Examples of Hands
+
+![Hand 1](hand1.png)
+Classic hand that needs to be shipped.
+Despite having a Phoenix and a way to bin it, you are completely dependant on your oponent playing a creature worthy of a lightning axe. There's 2 delve cards in hand and no air.
+You have absolutely no agency with this.
