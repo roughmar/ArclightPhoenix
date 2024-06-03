@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "DIY Sideboard"
+author: "Roughmar"
 categories: sample
-tags: [sample]
-image: arctic-1.jpg
+tags: [sideboard]
+image: mystical_dispute.jpg
 ---
 
 # Markdown Support
