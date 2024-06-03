@@ -95,7 +95,7 @@ On the other hand, I tend to see people mulliganing away hands that are perfectl
 
 ### Examples of Hands
 
-![Hand 1](hand1.png)
+![Hand 1](assets/img/hand1.png)
 Classic hand that needs to be shipped.
 Despite having a Phoenix and a way to bin it, you are completely dependant on your oponent playing a creature worthy of a lightning axe. There's 2 delve cards in hand and no air.
 You have absolutely no agency with this.
