@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Roughmar"
 categories: facts
 tags: [sample]
 image: phoenix.jpg

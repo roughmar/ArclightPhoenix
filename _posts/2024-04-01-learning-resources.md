@@ -4,7 +4,7 @@ title: "Learning Resources"
 author: "Roughmar"
 categories: resources
 tags: [external,help]
-image: Young_Pyromancer.webp
+image: Young-Pyromancer.webp
 ---
 
 There's a few people and communities you can reach out for further (or better!) help
@@ -20,6 +20,7 @@ Learn from the Polish robot himself.
 ## Twitter/X.com
 
 Daniel Goetschel (Gul_Dukat) [@GuI_Dukat](https://x.com/GuI_Dukat)
+
 Sergio Garcia (boytriton) [@SergioGarciaJ12](https://x.com/SergioGarciaJ12)
 
 There are a ton of content creator's out there, I'll try and update this as time goes by
