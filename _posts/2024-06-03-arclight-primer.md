@@ -161,7 +161,7 @@ Sometimes you go hard mode and you play with Air, effectively not knowing the ca
 
 Whenever you send a card away, the probability that the card on top can mutate into a copy of one of them diminishes, but at the same time, you need to play around the fact that you will eventually see it. This is the push and pull the deck offers, and you eventually need to embrace it if you want to be able to play it to its fullest.
 
-It's midgame and you need to find a counterspell. You have a Free the Fae in hand.
+>It's midgame and you need to find a counterspell. You have a Free the Fae in hand.
 You might find the counter, you might find something else.
 You might bin a Phoenix, you might bin that Hall of the Storm Giant or Crackling Drake too.
 
@@ -191,7 +191,10 @@ Phoenix is [the only deck that should play opt](https://www.channelfireball.com/
 Sleight is usually better to just send away at the beginning, if there's no fear of repercussion on the opponents turn, since it's a sorcery.
 Beyond this point, Sleight is better when you're looking for a very specific card, so that if you miss, you can still take the best of the 2 options given.
 >Imagine it's turn 2 and you only have a slow land in hand. You want to use that land for next turn. You Opt. The card on top is another Opt.
->Do you keep it, and stumble your land drop this turn allowing you to keep looking for lands next turn with this new Opt, or do you bottom it, not knowing whether you will hit an actual hand? What if you hit a Cruise you can't possibly cast anytime soon? If you use Sleight of Hand in situations like these, you can take an informed decision. The less mana you have, the more value Sleight usually brings to the table.
+
+>Do you keep it, and stumble your land drop this turn allowing you to keep looking for lands next turn with this new Opt, or do you bottom it, not knowing whether you will hit an actual hand?
+
+>What if you hit a Cruise you can't possibly cast anytime soon? If you use Sleight of Hand in situations like these, you can take an informed decision. The less mana you have, the more value Sleight usually brings to the table.
 
 Consider is always the best choice, unless you want to save it so that you can [fork it](https://scryfall.com/card/otc/227/galvanic-iteration).
 The reason I say it's the best choice stems from the fact that you are generating mana for delve spells with it, and potentially binning Phoenixes with it.
@@ -212,7 +215,8 @@ The other main reason to hold cantrips in the beginning is [Ledger Shredder](htt
 Sometimes the usage of Air is matchup dependant. If the opponent is playing hand disruption, like thoughtseize, I will probably want to hold on my Air, so I know what he took from me before I actually start going deep into Quantum space.
 Permission matchups, like UW Control, also are the ones where I hold my Air the longest, as depending on the boardstate, I might want to be going in for threats or go into stack fighting (usually post sideboard).
 
->A very specific nuance is in the mirror. On the draw, you might want to Consider turn 1, to make sure the Fiery Impulse you have in hand can kill the Ledger Shredder the opponent just played.
+>A very specific nuance is in the mirror.
+>On the draw, you might want to Consider turn 1, to make sure the Fiery Impulse you have in hand can kill the Ledger Shredder the opponent just played.
 
 There's no rule set in stone, try to understand the dance of what you require in hand to advance your game state, as well as what (if!) you require to hinder your opponents'.
 
@@ -275,7 +279,8 @@ The difference in games where you start with an uncontested Shredder, and games 
 Ledger does everything you want by leaning in the Quantum State and dialing it up all the way up to 11.
 It's the most important card against most aggro matchups and can run away with the mirror if you manage to protect it well enough.
 Being able to remember the connive triggers on paper can be tricky sometimes, and planning ahead for stack wars is important.
->the typical example being not having a removal in hand with our oponent tapped out. You cantrip, find a Fiery Impulse, and even though spell mastery is online, you will trigger connive if you cast it. You can wait for the opponents turn to cast Fiery, but he might double spell in response and grow Shredder out of reach, or just Spell Pierce it.
+>The typical example being not having a removal in hand with our oponent tapped out.
+>You cantrip, find a Fiery Impulse, and even though spell mastery is online, you will trigger connive if you cast it. You can wait for the opponents turn to cast Fiery, but he might double spell in response and grow Shredder out of reach, or just Spell Pierce it.
 The option you have, is casting another spell, triggering connive, and with it on the stack, casting your Fiery Impulse.
 
 Shredder brought a mini game into the battlefield that's both skill intensive as well as extremely rewarding and it might take some time to get used to it.
@@ -304,7 +309,7 @@ I don't think you are ever _really_ happy to see them, but at the same time, you
 
 The easy answer is that the opportunity cost is too low.
 
-[Spikefield Hazard](https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave) used to have it's uses against [Llanowar Elves](https://scryfall.com/card/gn3/101/llanowar-elves) or [Thalia](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben), and the exile clause actually was relevant both against [Mono Green](https://scryfall.com/card/khm/185/old-growth-troll), [Mono White](https://scryfall.com/card/snc/12/extraction-specialist), [Greasefang](https://scryfall.com/card/mid/213/cant-stay-away).
+[Spikefield Hazard](https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave) used to have it's uses against [Llanowar Elves](https://scryfall.com/card/gn3/101/llanowar-elves) or [Thalia](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben), and the exile clause actually was relevant against either [Mono Green](https://scryfall.com/card/khm/185/old-growth-troll), [Mono White](https://scryfall.com/card/snc/12/extraction-specialist) or [Greasefang](https://scryfall.com/card/mid/213/cant-stay-away).
 Being able to trigger the third spell on an empty board for Phoenixes, being able to target Planeswalkers or actually going to face (hey, I've forked my fair share of Spikefields) made the card relevant.
 
 The case for [Jwari Disruption](https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins) followed swiftly.
