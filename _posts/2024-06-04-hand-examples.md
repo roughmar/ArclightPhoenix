@@ -46,6 +46,8 @@ You still have the Phoenix/Axe combo, and the Delve card, but this time you are 
 
 ![Tense 1](assets/img/hand-tense-1.png)
 
+![Tense 2](assets/img/hand-tense-2.png)
+
 
 ## Matchup Dependant
 
