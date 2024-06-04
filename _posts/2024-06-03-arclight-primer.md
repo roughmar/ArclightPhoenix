@@ -48,7 +48,6 @@ image: opt.webp
 ### Who and what is this for?
 
 - This guide is intended for both new players approaching the Arclight Phoenix deck in Pioneer and veteran players looking to refresh their knowledge on card choices and concepts.
-The main reason I decided to write this up was due to cycle of new players purchasing this deck as they thought it was one thing, and immediately discarding it, as they found it was (possibly) another.
 
 - Many new players are drawn to Arclight Phoenix thinking it plays a certain way, but become discouraged when they find it functions differently. This guide aims to bridge that gap.
 
