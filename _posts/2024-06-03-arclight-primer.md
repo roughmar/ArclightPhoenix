@@ -162,8 +162,10 @@ Sometimes you go hard mode and you play with Air, effectively not knowing the ca
 Whenever you send a card away, the probability that the card on top can mutate into a copy of one of them diminishes, but at the same time, you need to play around the fact that you will eventually see it. This is the push and pull the deck offers, and you eventually need to embrace it if you want to be able to play it to its fullest.
 
 >It's midgame and you need to find a counterspell. You have a Free the Fae in hand.
-You might find the counter, you might find something else.
-You might bin a Phoenix, you might bin that Hall of the Storm Giant or Crackling Drake too.
+
+>You might find the counter, you might find something else.
+
+>You might bin a Phoenix, you might bin that Hall of the Storm Giant or Crackling Drake too.
 
 Playing around what is, what was and most importantly what might be is the most important thing in the whole deck, and the sooner you realize that, and feel confortable navigating the aether of unknown one spell after the other so the little Bird can be set free, the sooner you can tell whether Phoenix is the deck for you or not.
 
