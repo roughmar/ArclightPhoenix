@@ -4,7 +4,7 @@ title: "Hand Examples"
 author: "Roughmar"
 categories: resources
 tags: [mulligan, noob]
-image: picklock-prankster.webp
+image: sleight-of-hand.webp
 ---
 
 ## Standard Examples
