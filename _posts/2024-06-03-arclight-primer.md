@@ -27,10 +27,12 @@ image: opt.webp
       3. [Opt](#opt)
       4. [What to actually cast when you have Air options](#what-to-actually-cast-when-you-have-air-options)
    2. [Single Target Removal](#single-target)
-      1. [Fiery Impulse](#fiery-impulse)
-   3. [Grave Fillers/Card Selection](#picklock-prankster)
+   3. [Grave Fillers/Card Selection](#grave-fillerscard-selection)
+      1. [Picklock Prankster](#picklock-prankster)
+      2. [Pieces of the Puzzle](#pieces-of-the-puzzle)
    4. [Delve Spells](#delve-spells)
    5. [Creatures](#creatures)
+      1. [Ledger Shredder]
 
 
 ## Introduction
@@ -193,9 +195,63 @@ If I cast an Opt right at the beginning of the game and see a Phoenix, I'll prob
 
 The only issue with casting Consider in the beginning is if you bin something that signals something. Like, say, a Ledger Shredder in the first turn. If that happens, you are probably really desperate for lands, and savvy opponents might be able to pray on that.
 
-### Single Target Removal
+#### Should you use Air turn 1?
+It depends.
+Do you know what you want the card on the top to be?
+If there answer is yes, you probably should.
+If the answer is no (as in, you both need the land drop and a removal spell), you should probably want to see what you get on the drawstep and make an informed decision from it.
 
+The other main reason to hold cantrips in the beginning is [Ledger Shredder](https://scryfall.com/card/snc/46/ledger-shredder). Being able to connive away bad cards you have, get fuel for delve cards, or just be able to make it grow to 4 toughness can be reasonable arguments to hold your Air in hand.
+
+Sometimes the usage of Air is matchup dependant. If the opponent is playing hand disruption, like thoughtseize, I will probably want to hold on my Air, so I know what he took from me before I actually start going deep into Quantum space.
+Permission matchups, like UW Control, also are the ones where I hold my Air the longest, as depending on the boardstate, I might want to be going in for threats or go into stack fighting (usually post sideboard).
+
+>A very specific nuance is in the mirror. On the draw, you might want to Consider turn 1, to make sure the Fiery Impulse you have in hand can kill the Ledger Shredder the opponent just played.
+
+There's no rule set in stone, try to understand the dance of what you require in hand to advance your game state, as well as what (if!) you require to hinder your opponents'.
+
+### Single Target Removal
+There's really not much to talk about here, you kill everything on sight.
+Be cognizant that even though having spell mastery is trivial, you should be carefull when casting delve spells so you don't accidently turn it offline.
 
 ### Grave Fillers/Card Selection
+Phoenix has in it the power to have cards that attack all your plans at the same time, by giving you card selection through the Quantum uncertainty, as well as filling in your grave with whatever you didn't pick.
+
+Be carefull that post sideboard, you might be milling away your win conditions. Also be cognizant that even tho turbo self milling (by [forking](https://scryfall.com/card/otc/227/galvanic-iteration)) is super powerfull, you need to be carefull against certain matchups, as you may run out of gas.
+
+#### Picklock Prankster
+
+- Is arguably a 1 for 1 since the creature is kind of meh
+- Only sees 4 cards (forces you to pick 1 if hits)
++ Instant
++ Can grab other creatures (ie: copies of itself or [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft))
+
+#### Pieces of the Puzzle
+
+- Sorcery speed
+- 3 Mana Value
++ Sees 5 cards (allows you to send all to grave even if hits)
++ 2 for 1
+
+When Wild of Eldraine came out, Phoenix lists were sort of scattered.
+Thing in the Ice vs Ledger Shredder vs Demilich
+What to take out to put Sleight of Hand in?
+Is this Fairy the real deal?
+
+Over time Demilich and TiTi went into hiding (mostly due to meta reasons), but so did Pieces of the Puzzle.
+There's only on established player who still plays with it with [good results](https://mtgdecks.net/Pioneer/izzet-phoenix-decklist-by-gul-dukat-2042057) but even he is starting to move away and potentially adopt the adventure creature.
+
+Personally, I believe there might be a space for Pieces in the future, if the format ever slows down, but for the present time, 2 mana instant speed is really hard to beat.
+
 ### Delve Spells
+
+Before we go any further, this section is here to try to make it very clear:  you just can't take more than 5 delve spells.
+You don't want they stuck in your hand, and you just can't fuel them all. 5 is the sweet spot.
+Sometimes you will see a single Treasure Cruise in a sideboard slot on some lists with 2 Trespass in the main - you are supposed to take the Trespass out.
+
 ### Creatures
+
+#### Ledger Shredder
+Phoenix goes Brrrrrrr!
+
+Ledger Shredder made Phoenix much faster
