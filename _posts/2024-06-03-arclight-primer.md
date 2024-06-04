@@ -31,9 +31,15 @@ image: opt.webp
       1. [Picklock Prankster](#picklock-prankster)
       2. [Pieces of the Puzzle](#pieces-of-the-puzzle)
    4. [Delve Spells](#delve-spells)
+      1. [Turns Package](#turns-package)
    5. [Creatures](#creatures)
-      1. [Ledger Shredder]
-
+      1. [Ledger Shredder](#ledger-shredder)
+      2. [Thing in the Ice](#thing-in-the-ice)
+   6. [Flex Slots](#flex-slots)
+      1. [Spell Pierce](#spell-pierce)
+      2. [MDFC's](#mdfcs)
+   7. [Sideboard Pieces]
+5. [Matchups]
 
 ## Introduction
 
@@ -249,9 +255,67 @@ Before we go any further, this section is here to try to make it very clear:  yo
 You don't want they stuck in your hand, and you just can't fuel them all. 5 is the sweet spot.
 Sometimes you will see a single Treasure Cruise in a sideboard slot on some lists with 2 Trespass in the main - you are supposed to take the Trespass out.
 
+#### Turns Package
+
+The most over the top thing this deck does. The number one reason you are able to steal away pre sideboarded games, and ironically, the cards that more often that not, rotate out games 2 and 3.
+
+The turns package give you inevitability game 1, pre graveyard hate, to just steal away games that you had no right to win.
+Making 2 extra turns and attacking with 2 phoenixes means 18 flying damage, with no further spells being cast, no [Hall of Storm Giants](https://scryfall.com/card/afr/257/hall-of-storm-giants) activation, nothing.
+
+If the game drags on, you will win.
+No other deck can beat the sheer power of this in game 1, with the possible exception of the degeneracy that is Hidden Strings.
+
+Post sideboard you need to be prepared for the hate that's coming and usually, the turns package is the first to go.
+
 ### Creatures
 
 #### Ledger Shredder
-Phoenix goes Brrrrrrr!
 
-Ledger Shredder made Phoenix much faster
+The difference in games where you start with an uncontested Shredder, and games you don't, is absurd.
+Ledger does everything you want by leaning in the Quantum State and dialing it up all the way up to 11.
+It's the most important card against most aggro matchups and can run away with the mirror if you manage to protect it well enough.
+Being able to remember the connive triggers on paper can be tricky sometimes, and planning ahead for stack wars is important.
+>the typical example being not having a removal in hand with our oponent tapped out. You cantrip, find a Fiery Impulse, and even though spell mastery is online, you will trigger connive if you cast it. You can wait for the opponents turn to cast Fiery, but he might double spell in response and grow Shredder out of reach, or just Spell Pierce it.
+The option you have, is casting another spell, triggering connive, and with it on the stack, casting your Fiery Impulse.
+
+Shredder brought a mini game into the battlefield that's both skill intensive as well as extremely rewarding and it might take some time to get used to it.
+
+#### [Thing in the Ice](https://scryfall.com/card/soi/92/thing-in-the-ice-awoken-horror)
+
+The meta breaker.
+[Hullbreaker Horror](https://scryfall.com/card/clb/724/hullbreaker-horror) used to be present as a 2 mana threat that would flip the battlefield upside down and start breaking unsuspecting faces. Despite not having that much presence lately, it sometimes still shows as a 1-2 off in the flex slot, or as a sideboard card.
+If the Pioneer meta ever starts becoming focused on the battlefield again, expect to see it popping up.
+
+### Flex Slots
+#### Spell Pierce
+More often than not you will have 2 slots for this.
+It will protect your Shredder from removal, your hand from getting Thoughtseized, it will counter [Fable](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki) or [Sorin](https://scryfall.com/card/m20/115/sorin-imperious-bloodlord).
+It'll save you from [Teferi](https://scryfall.com/card/dom/207/teferi-hero-of-dominaria) or [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor).
+It'll stall Convokes' [plan](https://scryfall.com/card/one/134/gleeful-demolition).
+There's too many to mention but my life has been saved by this card a ridiculous amount of times and you should always try to represent having it in hand whenever you can, even if you don't have it (you can always cantrip in the end) so that your opponent is forced to play around it.
+
+#### MDFC's
+You can either run them, or not.
+If you do, you can go further down in the number of actual lands, as long as you are aware that sometimes you will have slow starts, or that the mana base will be more finicky.
+When they work, they are great, when they don't they aren't that bad.
+I don't think you are ever _really_ happy to see them, but at the same time, you're never _really_ that bothered either.
+
+>So why run them?
+
+The easy answer is that the opportunity cost is too low.
+
+[Spikefield Hazard](https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave) used to have it's uses against [Llanowar Elves](https://scryfall.com/card/gn3/101/llanowar-elves) or [Thalia](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben), and the exile clause actually was relevant both against [Mono Green](https://scryfall.com/card/khm/185/old-growth-troll), [Mono White](https://scryfall.com/card/snc/12/extraction-specialist), [Greasefang](https://scryfall.com/card/mid/213/cant-stay-away).
+Being able to trigger the third spell on an empty board for Phoenixes, being able to target Planeswalkers or actually going to face (hey, I've forked my fair share of Spikefields) made the card relevant.
+
+The case for [Jwari Disruption](https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins) followed swiftly.
+Sleight of hand really made the deck further tend towards blue, and post sideboard some matches are really blue heavy. Having a soft counter to *any* spell on the format that can usually trade up on mana and that you can always use as a land when it's too late, as long as you can sequence your early in a way you don't shoot yourself in the foot seems like a no brainer.
+
+All of this on a land that could be seen by your [grave fillers](#grave-fillerscard-selection), for the low cost of it coming into play tapped.
+
+### Sideboard Pieces
+
+## Matchups
+
+### Mirror
+The mirror match used to be all about the forked timewalks. The heuristic being whoever managed to cast the first Pieces of the Puzzle, was significantly ahead.
+Nowadays, with the inclusion of Ashiok, and some people prefering to go over the top with 
