@@ -94,33 +94,93 @@ You are not presenting a threat on the board and you are not advancing your plan
 
 ![Keep 1](assets/img/hand-keep-1.png)
 
+Bit too much on lands, but we can control the top. Go for opts on their endstep. Spirebluff to represent everything, into Hall.
+
 ![Keep 2](assets/img/hand-keep-2.png)
 
+One lander but it's a dual and we have Air.
+Sequencing can be tricky here as that spell pierce can be really good or really bad. Either shock and go for Sleight of Hand to find the second land, or pass and hold pierce to counter a Thoughtseize and Consider at their endstep if the coast is clear.
+Issue with this is that Shredder isn't amazing against Thoughtseize decks (as they have Fatal Push) and you are banking on drawing a land on your draw step.
+You can still go for the cantrip on your second turn after pierce, but the game will shape differently.
+
 ![Keep 3](assets/img/hand-keep-3.png)
+
+No removal but we have more than enough Air to get to it. Shredder on top and Cruise to rebuild.
+It's not great if against an aggro deck and they kill Shredder outright, but if he holds, you're golden.
 
 ## Ships
 
 ![Ship 1](assets/img/hand-ship-1.png)
 
+Complicated hand.
+Not knowing the matchup I'm tending to send it away.
+There's the argument to just hold the pierce and play shredder on turn 3 and triggering connive with axe if they have a threat on the board, but presently that's the only way it connives.
+You can be on topdeck mode starting turn 2.
+I understand if people defend the keep but you have way better 6 hands.
+
 ![Ship 2](assets/img/hand-ship-2.png)
 
+Temporal Trespass in the starting hand always represents -1 card.
+The mana base isn't fantastic and you might have a 4 hander without knowing if that removal never finds a target.
+
 ![Ship 3](assets/img/hand-ship-3.png)
+
+Unless I know for sure I am against Hidden Strings I really don't feel confortable keeping 2 pierces without either removal, early board presence, or more Air.
+If that Phoenix or 3rd land was another cantrip, or Picklock/Shredder, I'd keep in a heartbeat.
 
 ## Sneeps
 
 ![Sneep 1](assets/img/hand-sneep-1.png)
 
+3 Lands, Air, Board Present, hand shaping, card selection, removal. Can't ask for more.
+
 ![Sneep 2](assets/img/hand-sneep-2.png)
 
+Early counter and Air. We can shape what we get. Would be better if 4th land was Air, but we can live with it.
+There's no board presence, but again, we can find it.
+
+This is the type of hand a lot of people will say is a mulligan because it does nothing.
+This is the type of hand people looking at you play will say you were lucky because you you had nothing.
+This is a [Quantum](#quantum-state) hand. There's a lot of variance in it, and sometimes it'll whiff, but you need to play for the outs.
+
 ![Sneep 3](assets/img/hand-sneep-3.png)
+
+Holy shit.
+You get to live the dream of playing opt on turn 1 to find the land.
+Draw.
+Shredder.
+Draw.
+Shredder, and you should have a 3rd lander by now to get 2 connive triggers and just go to town.
 
 ## Controversial Keeps
 
 ![Tense 1](assets/img/hand-tense-1.png)
 
+Compare with the first Ship example.
+My first gut feeling here is to keep, despite having no board presence and one less land (and lesser quality of lands at that).
+Being able to sequence:
+- Riverglide, pass. See info from the other side with pierce up.
+- Sleight of Hand. Land drop, pass.
+
+And effectively be able to keep pierce or removal up (although with the land issue) while shaping my future, appeals more than just slamming a Shredder and praying.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lands are a good system. The current mulligan system is perfect. Non-games are good actually. Mulling to 2 on the play to find a land is based. <a href="https://t.co/bVMxCBHiGH">pic.twitter.com/bVMxCBHiGH</a></p>&mdash; Aikado (@AikadoLoR) <a href="https://twitter.com/AikadoLoR/status/1787099928013189480?ref_src=twsrc%5Etfw">May 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+This one is controversial only in how some people defend keeping it.
+In no scenario should this hand be kept, despite the outcome that followed from the mulligans.
+This is one of those confirmation bias that you should really try to abstain from.
+
+You go first and have a single colored land.
+If you don't find the second land from that Sleight, game is over.
+If you do:
+- Play land, Shredder
+- let's assume you have a target for one of the Fiery Impulses (which have no way of dealing 3 damage)
+- ???
+
+There's absolutely no plan for this hand.
 
 ## Matchup Dependant
 
 ![Matchup 1](assets/img/hand-knownmatchup-keep-1.png)
+
+This is an extremely shit hand that I would snap keep if I saw a Jegantha on the other side, or knew in advance my opponent was playing an aggro deck.
