@@ -13,9 +13,9 @@ image: opt.webp
    1. [Who is this for?](#who-is-this-for)
    2. [Why play Arclight?](#why-play-arclight)
    3. [What is Arclight?](#what-is-arclight)
-   4. [Classical Deck Structure](#classical_structure)
+   4. [Classical Deck Structure](#classical-structure)
 2. [Mulligans](#mulligans)
-   1. [What to expect from a 7 hander](#7hander)
+   1. [What to expect from a 7 hander](#what-to-expect-from-a-7-hander)
    2. [Ship it. Do it often.](#aggro-mulligan)
 3. [Quantum State](#quantum-state)
    1. [The concept of Air](#air-concept)
@@ -39,7 +39,7 @@ image: opt.webp
    6. [Flex Slots](#flex-slots)
       1. [Spell Pierce](#spell-pierce)
       2. [MDFC's](#mdfcs)
-   7. [Sideboard Pieces]
+   7. [Sideboard Pieces](#sideboard-pieces)
 5. [Matchups](#matchups)
 6. [Problem Cards](#problem-cards)
 
@@ -47,25 +47,30 @@ image: opt.webp
 
 ### Who and what is this for?
 
-- This guide is intended for both new players approaching the Arclight Phoenix deck in Pioneer and veteran players looking to refresh their knowledge on card choices and concepts.
+- This guide is intended for both new players approaching the [Arclight Phoenix](https://scryfall.com/card/grn/91/arclight-phoenix "Arclight Phoenix")
+<div class="card-popup">
+  <a href="https://scryfall.com/card/grn/91/arclight-phoenix" title="Arclight Phoenix">Arclight Phoenix</a>
+  <img src="{{ '/assets/images/arclight_phoenix.jpg' | relative_url }}" alt="Arclight Phoenix" class="card-image">
+</div>
+ deck in Pioneer and veteran players looking to refresh their knowledge on card choices and concepts.
 The main reason I decided to write this up was due to cycle of new players purchasing this deck as they thought it was one thing, and immediately discarding it, as they found it was (possibly) another.
 
 - Many new players are drawn to Arclight Phoenix thinking it plays a certain way, but become discouraged when they find it functions differently. This guide aims to bridge that gap.
 
 ### Why play Arclight?
 
-Over the relative small time Pioneer has been up, Phoenix has stood firmly in the upper tier echelons.
-Not as powerful as the modern version during Hogaak Summer, the pioneer version has one thing that the modern version never had - access to [Treasure Cruise](https://scryfall.com/card/otc/120/treasure-cruise)
+Over the relatively short time Pioneer has been around, Phoenix has stood firmly in the upper-tier echelons.
+Not as powerful as the modern version during Hogaak Summer, the pioneer version has one thing that the modern version never had - access to [Treasure Cruise](https://scryfall.com/card/otc/120/treasure-cruise).
 
 On previous iterations of the 75, [Pieces of the Puzzle](https://scryfall.com/card/soi/78/pieces-of-the-puzzle) (we will talk about this card [later](#pieces-of-the-puzzle)) and [Expressive Iteration](https://scryfall.com/card/stx/186/expressive-iteration) were the main pieces that kept the deck rolling and sort of helped create the notion that Phoenix was mostly all about the midrange with the 2 for 1's held together by the inevitability of an extra turn(s).
 Later on, bans happened, [the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse) happened, and Phoenix was on an all time low.
 Wilds of Eldraine changed this with [Picklock Prankster](https://scryfall.com/card/woe/64/picklock-prankster-free-the-fae) and the reprint of [Sleight of Hand](https://scryfall.com/card/woe/67/sleight-of-hand).
 
-The strenght of Phoenix is that it has _almost_ no bad matchups (realistically there are two) and the deck feels and acts differently depending on the pilot and the way he allows the deck to ebb and flow.
+The strength of Phoenix is that it has _almost_ no bad matchups (realistically there are two), and the deck feels and acts differently depending on the pilot and the way they allow the deck to ebb and flow.
 
 ### What is Arclight?
 
-When trying to describe what Phoenix is, most people have it wrong. Some people say it's a combo deck, others will say control. After some time playing the format, some player's will say it's an Aggro/Tempo deck.
+When trying to describe what Phoenix is, most people have it wrong. Some people say it's a combo deck, others will say control. After some time playing the format, some players will say it's an Aggro/Tempo deck.
 
 It's not.
 
@@ -85,7 +90,7 @@ Phoenix is a deck that keeps evolving over new entrances on the card pool, as we
 Main Deck/
 ├── 8 Creatures                     # 4 Arclight Phoenix
 |  ├── 4 Ledger Shredder            # Best creature overall
-|  └── 4 Thing in the Ice           # The OG, meta dependant
+|  └── 4 Thing in the Ice           # The OG, meta dependent
 ├── 12 Cantrips                     # Air. to breathe
 ├── 8 Single target removal         # Fire. so they don't
 ├── 4 Grave Fillers/Card Selection  # Gas for cruise, binning phoenixes
@@ -106,11 +111,11 @@ Main Deck/
 ## Mulligans
 
 This is the part you seriously need to read if you are starting with the deck.
-The whole thing about Phoenix is understanding that the match, at least in game 1, is all about spending your mana, building up for future Treasure Cruises, all the while mantaining  the battlefield in a manageable state.
+The whole thing about Phoenix is understanding that the match, at least in game 1, is all about spending your mana, building up for future Treasure Cruises, all the while maintaining the battlefield in a manageable state.
 I understand that mulliganing leaves your initial options slimmer, but unless you are against a deck with hand disruption (eg: [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize) or [Duress](https://scryfall.com/card/usg/132/duress)), you can and _should_ aggressively mulligan to be able to build your plan.
 
-The number one issue I see people doing is keeping hands that seem great in the long run (+2 Delve Spells in Hand), or having a lot of removal without knowing the opposing matchup.
-On the other hand, I tend to see people mulliganing away hands that are perfectly reasonable and due to confirmation bias (or failure to believe in the [quantum state](#quantum-state) the deck offers), mulligan away Air hands.
+The number one issue I see is people keeping hands that seem great in the long run (+2 Delve Spells in hand) or having a lot of removal without knowing the opposing matchup.
+On the other hand, I tend to see people mulliganing away hands that are perfectly reasonable, and due to confirmation bias (or failure to believe in the [quantum state](#quantum-state) the deck offers), mulligan away Air hands.
 
 There's a [specific section]({{ site.github.url }}{% post_url 2024-06-04-hand-examples %}) to dive through initial hands.
 
@@ -146,7 +151,7 @@ Playing with this in mind, understand that every card state is [mutable to a cer
 ### Air
 
 Air are all the cantrips you have in your deck. All 12 of them. 30% of your spells are Air.
-They're nothing and everything at the same time and are what makes your deck actually function.
+They're nothing and everything at the same time, and they are what makes your deck actually function.
 
 Air in your hand can be a land, a creature, a piece of removal. It can even be more Air.
 It can become a cruise and multiply into more Air, or whiff into 3 lands.
@@ -166,7 +171,7 @@ Sometimes you go hard mode and you play with Air, effectively not knowing the ca
 
 Whenever you send a card away, the probability that the card on top can mutate into a copy of one of them diminishes, but at the same time, you need to play around the fact that you will eventually see it. This is the push and pull the deck offers, and you eventually need to embrace it if you want to be able to play it to its fullest.
 
->It's midgame and you need to find a counterspell. You have a Free the Fae in hand.
+>It's mid-game and you need to find a counterspell. You have a Free the Fae in hand.
 
 >You might find the counter, you might find something else.
 
@@ -204,12 +209,12 @@ Beyond this point, Sleight is better when you're looking for a very specific car
 >What if you hit a Cruise you can't possibly cast anytime soon? If you use Sleight of Hand in situations like these, you can take an informed decision. The less mana you have, the more value Sleight usually brings to the table.
 
 Consider is always the best choice, unless you want to save it so that you can [fork it](https://scryfall.com/card/otc/227/galvanic-iteration).
-The reason I say it's the best choice stems from the fact that you are generating mana for delve spells with it, and potentially binning Phoenixes with it.
+The reason I say it's the best choice stems from the fact that you are generating mana for delve spells with it and potentially binning Phoenixes with it.
 
 It's also better to cast earlier in the game as the sooner in the game it is, the more often you will send spells away, and losing that graveyard equity is detrimental for you.
 If I cast an Opt right at the beginning of the game and see a Phoenix, I'll probably send it down, as there's other cards I need right away. I won't ever see that Phoenix again (unless my opponent has shuffle effects). 
 
-The only issue with casting Consider in the beginning is if you bin something that signals something. Like, say, a Ledger Shredder in the first turn. If that happens, you are probably really desperate for lands, and savvy opponents might be able to pray on that.
+The only issue with casting Consider in the beginning is if you bin something that signals something. Like, say, a Ledger Shredder in the first turn. If that happens, you are probably really desperate for lands, and savvy opponents might be able to prey on that.
 
 #### Should you use Air turn 1?
 It depends.
@@ -228,17 +233,17 @@ Permission matchups, like UW Control, also are the ones where I hold my Air the 
 There's no rule set in stone, try to understand the dance of what you require in hand to advance your game state, as well as what (if!) you require to hinder your opponents'.
 
 ### Single Target Removal
-There's really not much to talk about here, you kill everything on sight.
+There’s really not much to talk about here; you kill everything on sight.
 Be cognizant that even though having spell mastery is trivial, you should be carefull when casting delve spells so you don't accidently turn it offline.
 
 ### Grave Fillers/Card Selection
 Phoenix has in it the power to have cards that attack all your plans at the same time, by giving you card selection through the Quantum uncertainty, as well as filling in your grave with whatever you didn't pick.
 
-Be carefull that post sideboard, you might be milling away your win conditions. Also be cognizant that even tho turbo self milling (by [forking](https://scryfall.com/card/otc/227/galvanic-iteration)) is super powerfull, you need to be carefull against certain matchups, as you may run out of gas.
+Be careful that post-sideboard, you might be milling away your win conditions. Also, be cognizant that even though turbo self-milling (by [forking](https://scryfall.com/card/otc/227/galvanic-iteration)) is super powerful, you need to be careful against certain matchups, as you may run out of gas.
 
 #### Picklock Prankster
 
-- Is arguably a 1 for 1 since the creature is kind of meh
+- Is arguably a 1-for-1 since the creature is kind of meh
 - Only sees 4 cards (forces you to pick 1 if hits)
 + Instant
 + Can grab other creatures (ie: copies of itself or [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft))
@@ -256,7 +261,7 @@ What to take out to put Sleight of Hand in?
 Is this Fairy the real deal?
 
 Over time Demilich and TiTi went into hiding (mostly due to meta reasons), but so did Pieces of the Puzzle.
-There's only on established player who still plays with it with [good results](https://mtgdecks.net/Pioneer/izzet-phoenix-decklist-by-gul-dukat-2042057) but even he is starting to move away and potentially adopt the adventure creature.
+There's only one established player who still plays with it with [good results](https://mtgdecks.net/Pioneer/izzet-phoenix-decklist-by-gul-dukat-2042057) but even he is starting to move away and potentially adopt the adventure creature.
 
 Personally, I believe there might be a space for Pieces in the future, if the format ever slows down, but for the present time, 2 mana instant speed is really hard to beat.
 
@@ -296,7 +301,7 @@ Shredder brought a mini game into the battlefield that's both skill intensive as
 
 The meta breaker.
 [Hullbreaker Horror](https://scryfall.com/card/clb/724/hullbreaker-horror) used to be present as a 2 mana threat that would flip the battlefield upside down and start breaking unsuspecting faces. Despite not having that much presence lately, it sometimes still shows as a 1-2 off in the flex slot, or as a sideboard card.
-If the Pioneer meta ever starts becoming focused on the battlefield again, expect to see it popping up.
+If the Pioneer meta ever starts becoming focused on the battlefield again, expect to see it pop up.
 
 ### Flex Slots
 #### Spell Pierce
@@ -335,7 +340,7 @@ Mystical Dispute
 The mirror match used to be all about the forked timewalks. The heuristic being whoever managed to cast the first Pieces of the Puzzle, was significantly ahead.
 Nowadays, with the inclusion of Ashiok, and some people prefering to go over the top with [Proft's Eidetic Memory](https://scryfall.com/card/mkm/67/profts-eidetic-memory) in detriment of turns, the metrics need be assessed as the game unfolds.
 
-The beginning of the match, especially pre sideboard, is somewhat dependant of Ledger Shredder and it's ability to grow out of Fiery Temper's reach, which is somewhat easy, as both sides are trying to weave spells.
+The beginning of the match, especially pre sideboard, is somewhat dependant of Ledger Shredder and its ability to grow out of Fiery Impulse's reach, which is somewhat easy, as both sides are trying to weave spells.
 
 The match can become a fast shitshow if an Ashiok hits the field, or if someone gets un/lucky with their grave fillers not finding any Phoenixes ever/binning them all and the game revolving around one side wasting away their single target removal to stay alive, while the other side just keeps hammering away with recurring threats.
 
@@ -372,23 +377,55 @@ Everything else is 2 to the face in a match where you need to stem the bleeding.
 Graveyard Trespasser can be a bit weird cause you don't mind him that much if he hits the board before Phoenixes are in the grave, as he can proactively help you bin useless cards (or Phoenixes) from the hand to fuel a Cruise. On the other hand, it really sucks when he comes in the turn before you blowout, or when it becomes night and you face the decision of shipping the axe you're saving for Sheoldred along with an extra discard. Not cool.
 
 The moment you resolve a Cruise, is usually the moment you win. You did the unfair thing and went over their 2-color boomer Jund plan.
-The think is you really shouldn't resolve a Cruise with a Sheoldred on board unless you _really_ have to.
+The thing is you really shouldn't resolve a Cruise with a Sheoldred on board unless you _really_ have to.
 
-Post side, is the time where the question of "who goes first?" might not be what you expect.
+Post-sideboard is when the answer to "who goes first?" might not be what you expect.
 A lot of people who play this match believe that being on the draw is better for both sides post sideboard.
 
-The match usually revolves around hand disruption and sticking big threats on the board for their side, versus threat removal and sticking incremental value creatures on ours.
+The match usually revolves around hand disruption and sticking big threats on the board for their side, versus threat removal and sticking incremental value creatures on your side.
 Since they have both Thoughtseize and are bringing in Go Blank and possibly Ashiok as well, you can no longer rely on flooding them with card advantage.
 
-Some people like to leave Spell Pierce in this match, to take care of Fable of the Mirror-Breaker(https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki), [Go Blank](https://scryfall.com/card/stx/72/go-blank)'s and [Bankbussy](https://scryfall.com/card/neo/255/reckoner-bankbuster).
+Some people like to leave Spell Pierce in this match, to take care of [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki), [Go Blank](https://scryfall.com/card/stx/72/go-blank)'s and [Bankbuster](https://scryfall.com/card/neo/255/reckoner-bankbuster).
 Others like to take them out because we can deal with these threats by going around them.
 I'm not here to tell you what's best.
-Personally I think the call here is extremely meta dependant, because you don't commit too much of the sideboard to deal with a specific match, but that if there's the option, I'd rather take the Pierces out and bring some specific hate in.
+Personally, I think the call here is extremely meta-dependent because you don't commit too much of the sideboard to deal with a specific match, but if there's the option, I'd rather take the Pierces out and bring in some specific hate. However, Rakdos Midrange usually brings mostly noncreature spells from the side to deal with you, so there's an argument to not only keep the Pierces, but to consider adding Negates to the show.
 
-Cards you bring in are 2 for 1's, Artifact removal (Bankussy and [Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse)).
+Cards you bring in are 2-for-1's and artifact removal (for [Bankbussy](https://scryfall.com/card/neo/255/reckoner-bankbuster) and [Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse)).
 
 MD threats: [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse), [Graveyard Trespasser](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton), [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)
-SB threats: to be continued.
+SB threats: [Duress](https://scryfall.com/card/usg/132/duress), [Go Blank](https://scryfall.com/card/stx/72/go-blank), [Unlicensed Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse), [Reckoner Bankbuster](https://scryfall.com/card/neo/255/reckoner-bankbuster), [The End](https://scryfall.com/card/woe/87/the-end), [Ashiok, Dream Render](https://scryfall.com/card/war/228/ashiok-dream-render)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake), [Prismari Command](https://scryfall.com/card/lcc/279/prismari-command), [Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Beacon Bolt](https://scryfall.com/card/grn/154/beacon-bolt), Planeswalkers (that can interact with the board and/or give you card advantage)
 
+### Rakdos Vampires
+The Pro Tour Karlov winner is all about embracing [Vein Ripper](https://scryfall.com/card/pmkm/110s/vein-ripper) as soon as turn 3 and hit you with a ton of non ETB creatures you don't really care much about.
+Wait, what?
 
+I'm being somewhat dishonest here, the deck pack's a punch, and it _can_ be as hard to deal with as classic Rakdos Midrange, but since there's usually no Sheoldred in it, you can more safely waltz around the answers needed.
+
+The Thoughtseizes are present, but good Vampire players will use it advance their game state rather than hinder yours. They'll hand disrupt you before trying to go for the Sorin/Veinripper combo to see if the coast is clear.
+
+Veinripper's ward can be bypassed by a very modest Picklock Sacrifice if you are on the play.
+You might have to actually lose card equity (and a significant life swing) if you are on the draw and didn't have Spell Pierce up to to deal with Sorin.
+
+The rest of the game is mostly a back and forth game that you should win as long as their Fable or Preacher get out of hand.
+
+For a while, people were advocating [Tears of Valakut](https://scryfall.com/card/ogw/118/tears-of-valakut) as a sideboard card to bring in to this match, as it bypasses Vein Ripper's ward ability.
+Although I do understand the argument, it seems like overcommitment. It's a card you have no more targets for ([Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross) has 6 toughness) in a deck with hand disruption. Aside from the mirror I wouldn't bring this card against anything else (I haven't seen spirits in a while, and rending voley is clearly better for both these cases).
+
+Cards you bring in are 2 for 1's, counter magic, high damage spells, bounce spells.
+
+MD threats: [Vein Ripper](https://scryfall.com/card/pmkm/110s/vein-ripper), [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)
+SB threats: [Duress](https://scryfall.com/card/usg/132/duress), [Go Blank](https://scryfall.com/card/stx/72/go-blank), [Ashiok, Dream Render](https://scryfall.com/card/war/228/ashiok-dream-render), [Leyline of the Void](https://scryfall.com/card/m20/107/leyline-of-the-void)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake),[Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Beacon Bolt](https://scryfall.com/card/grn/154/beacon-bolt), [Negate](https://scryfall.com/card/sta/18/negate), [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft)
+
+### UW Control
+Tense matchup. Be prepared to deck out.
+
+This whole match is filled with subtleties, and you need to play carefully, but at the same time, due to time constraints, you need to play fast.
+So buckle up, and try to understand what is, and isn't important.
+
+At the end of turn 4 they can try to do the Wanderer EoT into Teferi, Hero of Dominaria curve.
+You can either not attack turn 4, attack with a Phoenix and use removal on your own Phoenix so it doesn't get exiled, or try to go into a counter war.
+
+There's a significant amount of exile removal from them, 
 ## Problem Cards

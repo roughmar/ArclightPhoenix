@@ -1,0 +1,24 @@
+.card-popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .card-popup .card-image {
+    display: none;
+    position: absolute;
+    bottom: 125%; /* Adjust based on your layout */
+    left: 50%;
+    margin-left: -75px; /* Adjust to center the image */
+    width: 150px; /* Adjust image size */
+    z-index: 1;
+    border: 1px solid #ddd;
+    background-color: white;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    border-radius: 5px;
+  }
+  
+  .card-popup:hover .card-image {
+    display: block;
+  }
+  
