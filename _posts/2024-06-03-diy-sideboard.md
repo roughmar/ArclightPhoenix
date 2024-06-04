@@ -2,7 +2,7 @@
 layout: post
 title: "DIY Sideboard"
 author: "Roughmar"
-categories: sample
+categories: primer
 tags: [sideboard]
 image: mystical_dispute.jpg
 ---

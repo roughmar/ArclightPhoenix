@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Roughmar"
-categories: facts
+categories: about
 tags: [roughmar]
 image: phoenix.jpg
 ---
