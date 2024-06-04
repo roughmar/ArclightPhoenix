@@ -10,7 +10,7 @@ image: sleight-of-hand.webp
 The first two examples will have the ideas I'd try to convey to someone first playing the deck.
 The other examples further down the line will be a quick thought process over the ideas discussed in the primer.
 
-## Standard Examples
+# Standard Examples
 
 ![Hand 1](assets/img/hand1.png)
 Classic hand that needs to be shipped but might seem ok at first.
@@ -63,7 +63,7 @@ How can this go right?
 
 
 #### Sequencing Alert
-#### Lands
+##### Lands
 Thinking through our first turns, the land sequencing is actually important here and can send signals to your opponent.
 If you play Spirebluff on turn 1, and don't draw an untapped land, you will be forced to shock the Steam Vents to either cast Ledger Shredder, or go for Free the Fae.
 If the choice turns out to be Free the Fae at the opponent's end step, you are signaling that you are potentially going to cast something 1 entire turn rotation ahead of time.
@@ -73,7 +73,7 @@ The usual choice would be to play Steam Vents on turn 1, play Spirebluff turn 2,
 However, you might want to force mental games in this situation, especially with a hand that isn't that fast, as is the case of this one.
 You can shock the Steam Vents on turn 1 to represent something. If the opponent drops a creature and you don't kill it, and then passes the turn and you don't cantrip, you just manifested a Spell Pierce in their head that doesn't exist.
 
-#### Spells
+##### Spells
 Assuming you get the best case scenario of Land/Cantrip discussed previously, you are now actually playing the deck.
 There's some options to consider for turn 2:
 
