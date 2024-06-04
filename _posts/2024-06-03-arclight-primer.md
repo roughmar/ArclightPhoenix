@@ -93,4 +93,4 @@ I understand that mulliganing leaves your initial options slimmer, but unless yo
 The number one issue I see people doing is keeping hands that seem great in the long run (+2 Delve Spells in Hand), or having a lot of removal without knowing the opposing matchup.
 On the other hand, I tend to see people mulliganing away hands that are perfectly reasonable and due to confirmation bias (or failure to believe in the [quantum state](#quantum-state) the deck offers), mulligan away Air hands.
 
-There's a [specific section]({{ site.github.url }}{% post_url 2024-06-04-hand-examples.md %})
+There's a [specific section]({{ site.github.url }}{% post_url 2024-06-04-hand-examples %})

@@ -7,9 +7,11 @@ tags: [noob,primer,sideboard]
 image: crackling_drake.jpg
 ---
 
+[Arclight Primer]({{ site.github.url }}{% post_url 2024-06-03-arclight-primer %}): understand the foundations of phoenix if you don't want to just get the ins and outs of matchups.
+
 ## Quick and Dirty Guide
 
-[Arclight Primer]({{ site.github.url }}{% post_url 2024-06-03-arclight-primer %}): understand the foundations of phoenix if you don't want to just get the ins and outs of matchups.
+
 
 ## Go ahead and adapt it
 
