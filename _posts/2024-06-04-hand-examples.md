@@ -183,7 +183,8 @@ If you don't find the second land from that Sleight, game is over.
 If you do:
 ```
 - Play land, Shredder
-- let's assume you have a target for one of the Fiery Impulses (which have no way of dealing 3 damage)
+- let's assume you have a target for one of the Fiery Impulses
+  (which have no way of dealing 3 damage)
 - ???
 ```
 
