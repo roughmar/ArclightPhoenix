@@ -7,7 +7,8 @@ tags: [mulligan, noob]
 image: sleight-of-hand.webp
 ---
 
-The first two examples will have the ideas I'd try to convey to someone first playing the deck. The other examples further down the lane will be a quick thought process over the ideas discussed in the primer.
+The first two examples will have the ideas I'd try to convey to someone first playing the deck.
+The other examples further down the line will be a quick thought process over the ideas discussed in the primer.
 
 ## Standard Examples
 
