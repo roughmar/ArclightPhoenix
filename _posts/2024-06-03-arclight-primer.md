@@ -12,7 +12,8 @@ image: opt.webp
 1. [Introduction](#introduction)
    1. [Who is this for?](#who-is-this-for)
    2. [Why play Arclight?](#why-play-arclight)
-   3. [Classical Deck Structure](#classical_structure)
+   3. [What is Arclight?](#what-is-arclight)
+   4. [Classical Deck Structure](#classical_structure)
 2. [Mulligans](#mulligans)
    1. [What to expect from a 7 hander](#7hander)
    2. [Ship it. Do it often.](#aggro-mulligan)
@@ -39,16 +40,17 @@ image: opt.webp
       1. [Spell Pierce](#spell-pierce)
       2. [MDFC's](#mdfcs)
    7. [Sideboard Pieces]
-5. [Matchups]
+5. [Matchups](#matchups)
+6. [Problem Cards](#problem-cards)
 
 ## Introduction
 
-### Who is this for?
+### Who and what is this for?
 
-The point of this guide is to act both as a facilitator to new people coming to the format and the deck, as well as the old school dudes who want to check up on ideas of both cards and concepts.
+- This guide is intended for both new players approaching the Arclight Phoenix deck in Pioneer and veteran players looking to refresh their knowledge on card choices and concepts.
 The main reason I decided to write this up was due to cycle of new players purchasing this deck as they thought it was one thing, and immediately discarding it, as they found it was (possibly) another.
 
-I won't be constantly updating this with a list, or a sideboard guide, and the main goal about this document is to hopefuly provide you with the tools to be able to craft those yourself, depending on your goals and meta expectations.
+- Many new players are drawn to Arclight Phoenix thinking it plays a certain way, but become discouraged when they find it functions differently. This guide aims to bridge that gap.
 
 ### Why play Arclight?
 
@@ -59,6 +61,9 @@ On previous iterations of the 75, [Pieces of the Puzzle](https://scryfall.com/ca
 Later on, bans happened, [the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse) happened, and Phoenix was on an all time low.
 Wilds of Eldraine changed this with [Picklock Prankster](https://scryfall.com/card/woe/64/picklock-prankster-free-the-fae) and the reprint of [Sleight of Hand](https://scryfall.com/card/woe/67/sleight-of-hand).
 
+The strenght of Phoenix is that it has _almost_ no bad matchups (realistically there are two) and the deck feels and acts differently depending on the pilot and the way he allows the deck to ebb and flow.
+
+### What is Arclight?
 
 When trying to describe what Phoenix is, most people have it wrong. Some people say it's a combo deck, others will say control. After some time playing the format, some player's will say it's an Aggro/Tempo deck.
 
@@ -66,7 +71,7 @@ It's not.
 
 >Phoenix is a Storm Deck(...) I see the deck similar to Storm/Scapeshift where you make land drops and develop yourself until you get enough resources to cast Timewalk and just win - _Daniel Goetschel_
 
-The concept of Phoenix is extremely straightforward since its inception: your oponents cast their threats, you cast your spells to remove them, and eventually they are topdecking while you still have a full grip and go literally over the top with a flying armada and potentially extra turns.
+The concept of Phoenix is extremely straightforward since its inception: your opponents cast their threats, you cast your spells to remove them, and eventually they are topdecking while you still have a full grip, literally going over the top with a flying armada and potentially taking extra turns.
 
 Phoenix is mostly all about the grave. The namesake wants to be there, cruise wants to feed from it, your removal needs it.
 Like most broken decks, trying to beat phoenix the conventional way doesn't usually work, but the deck is very easily hated on. We'll cover what you can expect to go against post board, and what to do against it, [here](#problem-cards).
@@ -321,8 +326,69 @@ All of this on a land that could be seen by your [grave fillers](#grave-fillersc
 
 ### Sideboard Pieces
 
+#### Counterspells
+Negate
+Mystical Dispute
 ## Matchups
 
 ### Mirror
 The mirror match used to be all about the forked timewalks. The heuristic being whoever managed to cast the first Pieces of the Puzzle, was significantly ahead.
-Nowadays, with the inclusion of Ashiok, and some people prefering to go over the top with 
+Nowadays, with the inclusion of Ashiok, and some people prefering to go over the top with [Proft's Eidetic Memory](https://scryfall.com/card/mkm/67/profts-eidetic-memory) in detriment of turns, the metrics need be assessed as the game unfolds.
+
+The beginning of the match, especially pre sideboard, is somewhat dependant of Ledger Shredder and it's ability to grow out of Fiery Temper's reach, which is somewhat easy, as both sides are trying to weave spells.
+
+The match can become a fast shitshow if an Ashiok hits the field, or if someone gets un/lucky with their grave fillers not finding any Phoenixes ever/binning them all and the game revolving around one side wasting away their single target removal to stay alive, while the other side just keeps hammering away with recurring threats.
+
+Post side, something I tend to notice is players tend to oversideboard in this match, bringing in Crackling Drake, or [Young Peezy](https://scryfall.com/card/otc/185/young-pyromancer).
+
+The heuristics for bringing those cards in don't follow under the plan of the mirror: whoever goes faster, wins.
+Young pyro makes little dudes, sure, but If I'm breezing through my deck conniving away while you are double triggering every turn to create elementals, I'm ahead.
+If you are refraining from doing that to prevent my connive triggers, you brought in a card that isn't doing what it was supposed to.
+
+Drake, on the other hand, is a 4 mana cantrip that I can remove or just chump block with Phoenix. It doesn't advance your gamestate.
+
+You wanna bring cards that either prevent your opponent from advancing their gamestate, or further advance yours. Ideally, both.
+Ashiok can do both, so he is the easiest include.
+Mystical Dispute can be the edge on counterwars as well as tackle the early Shredder, in case you cannot remove it, or be a clean answer to a Grave Filler or Treasure Cruise turn.
+
+Cards you take out are the ones that fail to properly hinder the opponent's gamestate and don't advance yours: the lower power single target removal.
+
+I can see an argument being made to bring in [Anger of the Gods](https://scryfall.com/card/2x2/102/anger-of-the-gods), to wilt away their Phoenixes.
+More often than not the gamestate is either too awkward and it will make a simetrical sweep, you're either too far ahead to want to cast it, or too far behind that it won't make a difference.
+
+
+### Rakdos Midrange
+Let's play Magic.
+The one matchup responsible for Phoenix going down the gutter for some time due to the combination of Thoughtseize, Graveyard Trespasser, Sheoldred and Graveyard Trespasser.
+Bring up the sideboard and Go Blank, allied with Extinction Event (all your creatures are even), sort of make the matchup rough to navigate.
+
+However, their plan is fair. Yours isn't. You can roll over them, you just need to survive the early to midgame.
+
+Game one is all about being able to stabilize your life while keeping your Lightning Axes in hand.
+Why? Because that bitch Sheoldred needs to be killed on sight. You have 4 Lightning Axes in total, they have 2-3 Sheoldred and she needs to go.
+If Sheoldred hits, your outs are significantly more complicated: you have Sleight of Hand and the Grave Fillers (potentially Narset, if you have her).
+Everything else is 2 to the face in a match where you need to stem the bleeding.
+
+Graveyard Trespasser can be a bit weird cause you don't mind him that much if he hits the board before Phoenixes are in the grave, as he can proactively help you bin useless cards (or Phoenixes) from the hand to fuel a Cruise. On the other hand, it really sucks when he comes in the turn before you blowout, or when it becomes night and you face the decision of shipping the axe you're saving for Sheoldred along with an extra discard. Not cool.
+
+The moment you resolve a Cruise, is usually the moment you win. You did the unfair thing and went over their 2-color boomer Jund plan.
+The think is you really shouldn't resolve a Cruise with a Sheoldred on board unless you _really_ have to.
+
+Post side, is the time where the question of "who goes first?" might not be what you expect.
+A lot of people who play this match believe that being on the draw is better for both sides post sideboard.
+
+The match usually revolves around hand disruption and sticking big threats on the board for their side, versus threat removal and sticking incremental value creatures on ours.
+Since they have both Thoughtseize and are bringing in Go Blank and possibly Ashiok as well, you can no longer rely on flooding them with card advantage.
+
+Some people like to leave Spell Pierce in this match, to take care of Fable of the Mirror-Breaker(https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki), [Go Blank](https://scryfall.com/card/stx/72/go-blank)'s and [Bankbussy](https://scryfall.com/card/neo/255/reckoner-bankbuster).
+Others like to take them out because we can deal with these threats by going around them.
+I'm not here to tell you what's best.
+Personally I think the call here is extremely meta dependant, because you don't commit too much of the sideboard to deal with a specific match, but that if there's the option, I'd rather take the Pierces out and bring some specific hate in.
+
+Cards you bring in are 2 for 1's, Artifact removal (Bankussy and [Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse)).
+
+MD threats: [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse), [Graveyard Trespasser](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton), [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)
+SB threats: to be continued.
+
+
+## Problem Cards
