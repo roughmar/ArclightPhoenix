@@ -73,7 +73,8 @@ You can shock the Steam Vents on turn 1 to represent something. If the opponent 
 #### Spells
 Assuming you get the best case scenario of Land/Cantrip discussed previously, you are now actually playing the deck.
 There's some options to consider for turn 2:
-```bash
+
+```
 - cantrip (assuming that was our draw) to make sure we get the 3rd land
 - play the Shredder, so next turn we can connive and start growing it
 - play Free the Fae on our turn
