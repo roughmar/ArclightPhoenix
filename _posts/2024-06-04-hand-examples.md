@@ -46,8 +46,6 @@ You still have the Phoenix/Axe combo, and the Delve card, but this time you are 
 
 ![Tense 1](assets/img/hand-tense-1.png)
 
-![Tense 2](assets/img/hand-tense-2.png)
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lands are a good system. The current mulligan system is perfect. Non-games are good actually. Mulling to 2 on the play to find a land is based. <a href="https://t.co/bVMxCBHiGH">pic.twitter.com/bVMxCBHiGH</a></p>&mdash; Aikado (@AikadoLoR) <a href="https://twitter.com/AikadoLoR/status/1787099928013189480?ref_src=twsrc%5Etfw">May 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
