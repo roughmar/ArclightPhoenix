@@ -20,8 +20,10 @@ You have absolutely no agency with this, however.
 Let's quickly think through our first turns:
 
 Assuming we're on the play, we play the tapped land, pass. On the next turn we get 1 extra card, play Spirebluff, and we have the following options
+```
 - kill whatever creature they played with a removal that might be necessary later on and enter topdeck mode
 - pass and enter topdeck mode
+```
 
 
 when will you realistically cast Treasure Cruise? Are you thinking of binning the Phoenix to Axe or the redundant cruise?
@@ -75,10 +77,10 @@ Assuming you get the best case scenario of Land/Cantrip discussed previously, yo
 There's some options to consider for turn 2:
 
 ```
-- cantrip (assuming that was our draw) to make sure we get the 3rd land
-- play the Shredder, so next turn we can connive and start growing it
-- play Free the Fae on our turn
-- play Free the Fae on opponent's turn
+- Cantrip, (assuming that was our draw) to make sure we get the 3rd land
+- Shredder, so next turn we can connive and start growing it
+- Free the Fae on our turn
+- Free the Fae on opponent's turn
 ```
 
 The highest risk/reward option is the shredder. If it doesn't get removed on sight, we can start having a growing threat while filling the grave.
@@ -162,8 +164,10 @@ Shredder, and you should have a 3rd lander by now to get 2 connive triggers and 
 Compare with the first Ship example.
 My first gut feeling here is to keep, despite having no board presence and one less land (and lesser quality of lands at that).
 Being able to sequence:
+```
 - Riverglide, pass. See info from the other side with pierce up.
 - Sleight of Hand. Land drop, pass.
+```
 
 And effectively be able to keep pierce or removal up (although with the land issue) while shaping my future, appeals more than just slamming a Shredder and praying.
 
@@ -176,9 +180,11 @@ This is one of those confirmation bias that you should really try to abstain fro
 You go first and have a single colored land.
 If you don't find the second land from that Sleight, game is over.
 If you do:
+```
 - Play land, Shredder
 - let's assume you have a target for one of the Fiery Impulses (which have no way of dealing 3 damage)
 - ???
+```
 
 There's absolutely no plan for this hand.
 
