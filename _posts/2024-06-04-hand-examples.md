@@ -17,3 +17,45 @@ You have absolutely no agency with this.
 ![Hand2](assets/img/hand2.png)
 Although it looks extremely similar to the first hand, this is a keep.
 You still have the Phoenix/Axe combo, and the Delve card, but this time you are no longer dependant on your oponent, and are actually able to create a proactive plan with both Ledger Shredder and Picklock Prankster.
+
+## Keeps
+
+![Keep 1](assets/img/hand-keep-1.png)
+
+![Keep 2](assets/img/hand-keep-2.png)
+
+![Keep 3](assets/img/hand-keep-3.png)
+
+## Ships
+
+![Ship 1](assets/img/hand-ship-1.png)
+
+![Ship 2](assets/img/hand-ship-2.png)
+
+![Ship 3](assets/img/hand-ship-3.png)
+
+## Sneeps
+
+![Sneep 1](assets/img/hand-sneep-1.png)
+
+![Sneep 2](assets/img/hand-sneep-2.png)
+
+![Sneep 3](assets/img/hand-sneep-3.png)
+
+## Controversial Keeps
+
+![Tense 1](assets/img/hand-tense-1.png)
+
+
+## Matchup Dependant
+
+![Matchup 1](assets/img/hand-knownmatchup-keep-1.png)
+
+
+
+
+
+
+
+
+
