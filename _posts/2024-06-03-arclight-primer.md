@@ -150,10 +150,10 @@ They're nothing and everything at the same time and are what makes your deck act
 
 Air in your hand can be a land, a creature, a piece of removal. It can even be more Air.
 It can become a cruise and multiply into more Air, or whiff into 3 lands.
-As long as you have Air, you have control in your game, and it's outcome.
+As long as you have Air, you have control over your game's outcome.
 It's due to this Air that you can recycle your hands and bring your Phoenixes back by just using mana but not wasting cards.
 
-### Embracing Eisenberg
+### Embracing the Uncertainty
 
 The cards in your hand can be swapped with connive triggers from Ledger Shredder, or be sent away with a Lightning Axe. You can loot them with a Charm or Command.
 
