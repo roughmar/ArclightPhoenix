@@ -32,7 +32,7 @@ title: "Sideboard Guide Table"
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No cards in.</p>
+                        <p>No cards in. Debug info: {{ post.content }}</p>
                     {% endif %}
                 </td>
                 <td>
@@ -48,7 +48,7 @@ title: "Sideboard Guide Table"
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No cards out.</p>
+                        <p>No cards out. Debug info: {{ post.content }}</p>
                     {% endif %}
                 </td>
                 <td>
@@ -63,7 +63,7 @@ title: "Sideboard Guide Table"
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No notes available.</p>
+                        <p>No notes available. Debug info: {{ post.content }}</p>
                     {% endif %}
                 </td>
             </tr>
