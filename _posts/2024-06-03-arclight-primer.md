@@ -175,6 +175,34 @@ Whenever you send a card away, the probability that the card on top can mutate i
 
 Playing around what is, what was and most importantly what might be is the most important thing in the whole deck, and the sooner you realize that, and feel confortable navigating the aether of unknown one spell after the other so the little Bird can be set free, the sooner you can tell whether Phoenix is the deck for you or not.
 
+### Topdeck Mode
+
+Possibly one of the strongest points Phoenix has is Topdeck Mode.
+Some people will say that this is a moot point, as you always have cards in hand, due to Treasure Cruise.
+
+Not only is it a fallacy, since some matches require heavy resource trading that will leave you [hellbent](https://mtg.fandom.com/wiki/Hellbent), you don't really need to have no cards in hand to be in Topdeck Mode.
+
+> If all your cards in hand are lands, are you not in Topdeck Mode?
+
+Phoenix has the particularity that sometimes you might hit Topdeck Mode with a full grip and you might not even notice that.
+
+> If all your cards are Air, are you in Topdeck Mode?
+
+All the times you are in Topdeck Mode, you are practicing topdecking (ha!).
+Remember all the cantrips and what they usually see?
+Remember only running 17-19 lands in the whole deck?
+When you are topdecking, the probability that you will hit something that will get you out of that situation, is very high. It make make you work for it, but you can accelerate the speed it will take you to see a Picklock Prankster that will get you out of this mess.
+The Treasure Cruise that will get you back in the game.
+
+You need to have some discipline, however.
+
+>Assuming you are topdecking and you find a consider.
+You cast consider and the card on top is a Shredder.
+That Shredder will not get you out of Topdeck Mode. You bin that bastard.
+Even if the card after him is a Land, _you are one card ahead to finding what you need to come out on top_.
+
+
+
 ## Card Notes - Core
 ### Air
 Air, or the card selection cantrips, are what allows this deck to exist. You Breathe through it, and more other than not it stokes the flame for Arclight to come back to life.
