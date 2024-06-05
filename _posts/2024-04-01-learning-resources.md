@@ -25,4 +25,4 @@ Sergio Garcia (boytriton) [@SergioGarciaJ12](https://x.com/SergioGarciaJ12)
 
 Hugo "Chester" Freitas (hugofreitas1) [@hugochaisman](https://twitter.com/hugochaisman)
 
-There are a ton of content creator's out there, I'll try and update this as time goes by
+There are a ton of content creators out there, I'll try and update this as time goes by
