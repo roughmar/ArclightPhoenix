@@ -20,15 +20,14 @@ title: "Sideboard Guide Table"
             <tr>
                 <td>{{ post.title }}</td>
                 <td>
-                    {% capture cards_in %}
-                        {{ post.content | split: '### Cards In' | last | split: '### Cards Out' | first | newline_to_br }}
-                    {% endcapture %}
-                    {% if cards_in contains '-' %}
+                    {% assign cards_in_section = post.content | split: '### Cards In' %}
+                    {% if cards_in_section.size > 1 %}
+                        {% assign cards_in_content = cards_in_section[1] | split: '### Cards Out' %}
+                        {% assign cards_in_list = cards_in_content[0] | split: '\n' %}
                         <ul>
-                            {% assign cards_in_list = cards_in | split: '<br />' %}
-                            {% for item in cards_in_list %}
-                                {% if item contains '-' %}
-                                    <li>{{ item | remove: '-' | strip }}</li>
+                            {% for line in cards_in_list %}
+                                {% if line contains '-' %}
+                                    <li>{{ line | remove: '-' | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -37,15 +36,14 @@ title: "Sideboard Guide Table"
                     {% endif %}
                 </td>
                 <td>
-                    {% capture cards_out %}
-                        {{ post.content | split: '### Cards Out' | last | split: '### Notes' | first | newline_to_br }}
-                    {% endcapture %}
-                    {% if cards_out contains '-' %}
+                    {% assign cards_out_section = post.content | split: '### Cards Out' %}
+                    {% if cards_out_section.size > 1 %}
+                        {% assign cards_out_content = cards_out_section[1] | split: '### Notes' %}
+                        {% assign cards_out_list = cards_out_content[0] | split: '\n' %}
                         <ul>
-                            {% assign cards_out_list = cards_out | split: '<br />' %}
-                            {% for item in cards_out_list %}
-                                {% if item contains '-' %}
-                                    <li>{{ item | remove: '-' | strip }}</li>
+                            {% for line in cards_out_list %}
+                                {% if line contains '-' %}
+                                    <li>{{ line | remove: '-' | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
@@ -54,15 +52,13 @@ title: "Sideboard Guide Table"
                     {% endif %}
                 </td>
                 <td>
-                    {% capture notes %}
-                        {{ post.content | split: '### Notes' | last | newline_to_br }}
-                    {% endcapture %}
-                    {% if notes contains '-' %}
+                    {% assign notes_section = post.content | split: '### Notes' %}
+                    {% if notes_section.size > 1 %}
+                        {% assign notes_content = notes_section[1] | split: '\n' %}
                         <ul>
-                            {% assign notes_list = notes | split: '<br />' %}
-                            {% for item in notes_list %}
-                                {% if item contains '-' %}
-                                    <li>{{ item | remove: '-' | strip }}</li>
+                            {% for line in notes_content %}
+                                {% if line contains '-' %}
+                                    <li>{{ line | remove: '-' | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
