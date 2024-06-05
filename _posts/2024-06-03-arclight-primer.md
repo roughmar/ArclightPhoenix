@@ -330,7 +330,7 @@ All of this on a land that could be seen by your [grave fillers](#grave-fillersc
 #### Counterspells
 Negate
 Mystical Dispute
-## [Matchups]({{ site.baseurl }}{% post_url matchups %})
+## [Matchups]({{ site.baseurl }}{% post_url 2024-06-05-matchups %})
 
 
 ### Mirror
