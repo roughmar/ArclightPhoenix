@@ -19,7 +19,7 @@ image: opt.webp
    2. [Ship it. Do it often.](#aggro-mulligan)
 3. [Quantum State](#quantum-state)
    1. [The concept of Air](#air-concept)
-   3. [Embracing Eisenberg](#embracing-eisenberg)
+   3. [Embracing the Uncertainty](#embracing-the-uncertainty)
    2. [Topdeck Mode](#topdeck-mode)
 4. [Card Notes - Core](#card-notes-core)
    1. [Air](#air-cards)
@@ -140,7 +140,7 @@ You just need to adapt to this concept and play around it. Be water my friend.
 >The cards on the top of your deck might not be there.
 
 The only thing you know is what's on the grave, what might be going to the grave, and eventually what's exactly on the bottom of your library since you placed it there.
-Playing with this in mind, understand that every card state is [mutable to a certain extent](#embracing-eisenberg).
+Playing with this in mind, understand that every card state is [mutable to a certain extent](#embracing-the-uncertainty).
 
 ### Air
 
@@ -231,9 +231,9 @@ There’s really not much to talk about here; you kill everything on sight.
 Be cognizant that even though having spell mastery is trivial, you should be carefull when casting delve spells so you don't accidently turn it offline.
 
 ### Grave Fillers/Card Selection
-Phoenix has in it the power to have cards that attack all your plans at the same time, by giving you card selection through the Quantum uncertainty, as well as filling in your grave with whatever you didn't pick.
+The grave fillers are the most powerfull cards in your entire deck, as they advance your gameplan in all possible dimensions: they get you specific card selection through the Quantum, and massively fill the grave while at it.
 
-Be careful that post-sideboard, you might be milling away your win conditions. Also, be cognizant that even though turbo self-milling (by [forking](https://scryfall.com/card/otc/227/galvanic-iteration)) is super powerful, you need to be careful against certain matchups, as you may run out of gas.
+Be careful that post-sideboard, you might be milling away your win conditions. Also, be cognizant that even though turbo self-milling (by [forking](https://scryfall.com/card/otc/227/galvanic-iteration)) is super powerful, you need to be careful that you might run out of gas and end up milling yourself by doing this.
 
 #### Picklock Prankster
 
@@ -415,11 +415,49 @@ Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-dr
 ### UW Control
 Tense matchup. Be prepared to deck out.
 
-This whole match is filled with subtleties, and you need to play carefully, but at the same time, due to time constraints, you need to play fast.
-So buckle up, and try to understand what is, and isn't important.
+This whole match is filled with subtleties that force you to play carefully but, due to time constraints, you also need to play fast.
+So buckle up, and try to understand what's important in the match, and to a a certain extent, what actually isn't.
 
-At the end of turn 4 they can try to do the Wanderer EoT into Teferi, Hero of Dominaria curve.
-You can either not attack turn 4, attack with a Phoenix and use removal on your own Phoenix so it doesn't get exiled, or try to go into a counter war.
+Starting at the end of turn 4 they can try to do the Wanderer EoT into Teferi, Hero of Dominaria curve.
+You can either not attack turn 4, attack with a Phoenix and use removal on your own Phoenix so it doesn't get exiled from the Wanderer, or try to go into a counter war.
+The issue here is that just passing buys them time.
 
-There's a significant amount of exile removal from them, 
+As long as you keep using your mana, you should be fine.
+
+There's a significant amount of exile removal from them from cards like [March of Otherworldly Light](https://scryfall.com/card/neo/28/march-of-otherworldly-light), The Wandering Emperor, [Sunfall](https://scryfall.com/card/mom/40/sunfall) or [Settle the Wreckage](https://scryfall.com/card/xln/34/settle-the-wreckage).
+
+Your 8 removal spells are almost useless here, as their only role is targetting your own Phoenixes so you can save them from being exiled.
+
+You used to be able to out tempo them by hardcasting Phoenix and forcing a spell, only to bring the birds back once again, but with [No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) now in the mix, there's yet another thing that you have to play around.
+
+So what's the plan?
+
+Game 1, if you have the turns package in the 60, your best bet is to control the flow of spell usage and keep the Spell Pierces in hand untill they are _absolutely_ necessary.
+The usual scenario is you stick a Shredder, you try to grow it, it will attack once or twice until it is removed.
+You stick another bird, rinse and repeat.
+Eventually you try to bring out all the Phoenixes you've been binning while trying to fork a Trespass.
+Problem here is they might have [Hallowed Moonlight](https://scryfall.com/card/ori/16/hallowed-moonlight) in the main.
+The issue is that you will often not be able to play around everything, and if you try to, you will deck out.
+You will eventually have to exchange resources.
+
+Some versions are now running a [Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils) package.
+Be careful with your Ledger Shredder triggers, and they will hinder you.
+Phoenixes can be hardcast to deal with her, if the need rises.
+
+Game 2 it becomes a control fest.
+
+Cards you bring are 2 for 1's, counterspells, and Planeswalkers.
+
+MD threats: [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor), [Sunfall](https://scryfall.com/card/mom/40/sunfall), [Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils)
+SB threats: [Settle the Wreckage](https://scryfall.com/card/xln/34/settle-the-wreckage), [High Noon](https://scryfall.com/card/otj/15/high-noon), [Rest in Peace](https://scryfall.com/card/a25/32/rest-in-peace), [Shark Typhoon](https://scryfall.com/card/otc/113/shark-typhoon)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake),[Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Negate](https://scryfall.com/card/sta/18/negate), [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft), [Mystical Dispute](https://scryfall.com/card/pr23/1/mystical-dispute)
+
 ## Problem Cards
+
+### Ashiok, Dream Render
+### Go Blank
+### Deafening Clarion
+### Rest in Peace
+### Leyline of the Void
+### Narset, Parter of Veils
+### Thought Distortion
