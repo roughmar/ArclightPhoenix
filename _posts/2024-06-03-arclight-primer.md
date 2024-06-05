@@ -80,26 +80,28 @@ Like most broken decks, trying to beat phoenix the conventional way doesn't usua
 
 Phoenix is a deck that keeps evolving over new entrances on the card pool, as well as the meta, but the bread and butter doesn't change much:
 
-```bash
+```
 Main Deck/
-├── 8 Creatures                     # 4 Arclight Phoenix
-|  ├── 4 Ledger Shredder            # Best creature overall
-|  └── 4 Thing in the Ice           # The OG, meta dependent
-├── 12 Cantrips                     # Air. to breathe
-├── 8 Single target removal         # Fire. so they don't
-├── 4 Grave Fillers/Card Selection  # Gas for cruise, binning phoenixes
-|  ├── Pieces of the Puzzle         # Classic best worst card
-|  └── Picklock Prankster           # New kid on the block, here to stay
-├── 5 (+1 Fork) Delve Spells        # Seems too specific. (It isn't)
-|  ├── 3-4 Treasure Cruise          # Water. So they choke
-|  └── Turns Package                # The thing that wins you game one
-|     ├── 1-2 Temp. Trespass        # The stuff that leaves most often
-|     └── 1-2 Galv. Iteration       # Sometimes this stays
-├── 17-19 Lands                     # Earth. Cause I need to put it somewhere
-|  └── 2 MDFC                       # More than 2 is usually trolling                     
-├── 3 Flex Slots                    # Usually aren't that flexxy tho:
-|  ├── 2 Spell Pierce               # It's not a control deck
-|  └── 1 Brazen Borrower            # But you can always try to make it act like one.
+├── 8 Creatures                     
+|  ├── 4 Arclight Phoenix
+|  └── 4 Friends
+|     ├── Ledger Shredder
+|     └── Thing in the Ice
+├── 12 Cantrips
+├── 8 Single target removal
+├── 4 Grave Fillers/Card Selection
+|  ├── Pieces of the Puzzle
+|  └── Picklock Prankster
+├── 5 (+1 Fork) Delve Spells
+|  ├── 3-4 Treasure Cruise
+|  └── Turns Package
+|     ├── 1-2 Temp. Trespass
+|     └── 1-2 Galv. Iteration
+├── 17-19 Lands
+|  └── 2 MDFC
+├── 3 Flex Slots
+|  ├── 2 Spell Pierce
+|  └── 1 Brazen Borrower
 ```
 
 ## Mulligans
