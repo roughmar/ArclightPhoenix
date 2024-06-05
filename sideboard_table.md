@@ -20,56 +20,54 @@ title: "Sideboard Guide Table"
             <tr>
                 <td>{{ post.title }}</td>
                 <td>
-                    {% assign cards_in_section = post.content | split: '### Cards In' %}
-                    <p>Debug: {{ cards_in_section }}</p>
-                    {% if cards_in_section.size > 1 %}
-                        {% assign cards_in_content = cards_in_section[1] | split: '### Cards Out' %}
-                        <p>Debug Cards In Content: {{ cards_in_content[0] }}</p>
-                        {% assign cards_in_list = cards_in_content[0] | newline_to_br | split: '<br />' %}
+                    {% capture cards_in_content %}
+                        {{ post.content | split: "### Cards In" | last | split: "### Cards Out" | first }}
+                    {% endcapture %}
+                    {% if cards_in_content contains "-" %}
                         <ul>
+                            {% assign cards_in_list = cards_in_content | newline_to_br | split: "<br />" %}
                             {% for line in cards_in_list %}
-                                {% if line contains '-' %}
-                                    <li>{{ line | remove: '-' | strip }}</li>
+                                {% if line contains "-" %}
+                                    <li>{{ line | remove: "-" | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No cards in. Debug info: {{ post.content }}</p>
+                        <p>No cards in.</p>
                     {% endif %}
                 </td>
                 <td>
-                    {% assign cards_out_section = post.content | split: '### Cards Out' %}
-                    <p>Debug: {{ cards_out_section }}</p>
-                    {% if cards_out_section.size > 1 %}
-                        {% assign cards_out_content = cards_out_section[1] | split: '### Notes' %}
-                        <p>Debug Cards Out Content: {{ cards_out_content[0] }}</p>
-                        {% assign cards_out_list = cards_out_content[0] | newline_to_br | split: '<br />' %}
+                    {% capture cards_out_content %}
+                        {{ post.content | split: "### Cards Out" | last | split: "### Notes" | first }}
+                    {% endcapture %}
+                    {% if cards_out_content contains "-" %}
                         <ul>
+                            {% assign cards_out_list = cards_out_content | newline_to_br | split: "<br />" %}
                             {% for line in cards_out_list %}
-                                {% if line contains '-' %}
-                                    <li>{{ line | remove: '-' | strip }}</li>
+                                {% if line contains "-" %}
+                                    <li>{{ line | remove: "-" | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No cards out. Debug info: {{ post.content }}</p>
+                        <p>No cards out.</p>
                     {% endif %}
                 </td>
                 <td>
-                    {% assign notes_section = post.content | split: '### Notes' %}
-                    <p>Debug: {{ notes_section }}</p>
-                    {% if notes_section.size > 1 %}
-                        <p>Debug Notes Content: {{ notes_section[1] }}</p>
-                        {% assign notes_list = notes_section[1] | newline_to_br | split: '<br />' %}
+                    {% capture notes_content %}
+                        {{ post.content | split: "### Notes" | last }}
+                    {% endcapture %}
+                    {% if notes_content contains "-" %}
                         <ul>
+                            {% assign notes_list = notes_content | newline_to_br | split: "<br />" %}
                             {% for line in notes_list %}
-                                {% if line contains '-' %}
-                                    <li>{{ line | remove: '-' | strip }}</li>
+                                {% if line contains "-" %}
+                                    <li>{{ line | remove: "-" | strip }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
                     {% else %}
-                        <p>No notes available. Debug info: {{ post.content }}</p>
+                        <p>No notes available.</p>
                     {% endif %}
                 </td>
             </tr>
