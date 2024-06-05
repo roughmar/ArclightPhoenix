@@ -15,7 +15,8 @@ title: "Sideboard Guide Table"
         </tr>
     </thead>
     <tbody>
-        {% for post in site.posts %}
+        {% assign sideboard_guides = site.posts | where: "tags", "sideboard-guide" %}
+        {% for post in sideboard_guides %}
             <tr>
                 <td>{{ post.title }}</td>
                 <td>

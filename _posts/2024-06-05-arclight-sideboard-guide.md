@@ -2,6 +2,7 @@
 layout: post
 title: "Sideboard Guide for Blue-Red Delver"
 date: 2024-06-05
+tags: sideboard-guide
 ---
 
 # Sideboard Guide for Blue-Red Delver
