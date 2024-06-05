@@ -99,9 +99,9 @@ Main Deck/
 |     └── 1-2 Galv. Iteration
 ├── 17-19 Lands
 |  └── 2 MDFC
-├── 3 Flex Slots
-|  ├── 2 Spell Pierce
-|  └── 1 Brazen Borrower
+└── 3 Flex Slots
+   ├── 2 Spell Pierce
+   └── 1 Brazen Borrower
 ```
 
 ## Mulligans
@@ -330,7 +330,8 @@ All of this on a land that could be seen by your [grave fillers](#grave-fillersc
 #### Counterspells
 Negate
 Mystical Dispute
-## Matchups
+## [Matchups]({{ site.baseurl }}{% post_url matchups %})
+
 
 ### Mirror
 The mirror match used to be all about the forked timewalks. The heuristic being whoever managed to cast the first Pieces of the Puzzle, was significantly ahead.

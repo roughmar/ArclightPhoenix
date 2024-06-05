@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Matchups"
+author: "Roughmar"
+categories: primer
+tags: [primer]
+image: galvanic-iteration.webp
+---
+
+# Matchups
+
+## Mirror
+The mirror match used to be all about the forked timewalks. The heuristic being whoever managed to cast the first Pieces of the Puzzle, was significantly ahead.
+Nowadays, with the inclusion of Ashiok, and some people prefering to go over the top with [Proft's Eidetic Memory](https://scryfall.com/card/mkm/67/profts-eidetic-memory) in detriment of turns, the metrics need be assessed as the game unfolds.
+
+The beginning of the match, especially pre sideboard, is somewhat dependant of Ledger Shredder and its ability to grow out of Fiery Impulse's reach, which is somewhat easy, as both sides are trying to weave spells.
+
+The match can become a fast shitshow if an Ashiok hits the field, or if someone gets un/lucky with their grave fillers not finding any Phoenixes ever/binning them all and the game revolving around one side wasting away their single target removal to stay alive, while the other side just keeps hammering away with recurring threats.
+
+Post side, something I tend to notice is players tend to oversideboard in this match, bringing in Crackling Drake, or [Young Peezy](https://scryfall.com/card/otc/185/young-pyromancer).
+
+The heuristics for bringing those cards in don't follow under the plan of the mirror: whoever goes faster, wins.
+Young pyro makes little dudes, sure, but If I'm breezing through my deck conniving away while you are double triggering every turn to create elementals, I'm ahead.
+If you are refraining from doing that to prevent my connive triggers, you brought in a card that isn't doing what it was supposed to.
+
+Drake, on the other hand, is a 4 mana cantrip that I can remove or just chump block with Phoenix. It doesn't advance your gamestate.
+
+You wanna bring cards that either prevent your opponent from advancing their gamestate, or further advance yours. Ideally, both.
+Ashiok can do both, so he is the easiest include.
+Mystical Dispute can be the edge on counterwars as well as tackle the early Shredder, in case you cannot remove it, or be a clean answer to a Grave Filler or Treasure Cruise turn.
+
+Cards you take out are the ones that fail to properly hinder the opponent's gamestate and don't advance yours: the lower power single target removal.
+
+I can see an argument being made to bring in [Anger of the Gods](https://scryfall.com/card/2x2/102/anger-of-the-gods), to wilt away their Phoenixes.
+More often than not the gamestate is either too awkward and it will make a simetrical sweep, you're either too far ahead to want to cast it, or too far behind that it won't make a difference.
+
+
+## Rakdos Midrange
+Let's play Magic.
+The one matchup responsible for Phoenix going down the gutter for some time due to the combination of Thoughtseize, Graveyard Trespasser, Sheoldred and Graveyard Trespasser.
+Bring up the sideboard and Go Blank, allied with Extinction Event (all your creatures are even), sort of make the matchup rough to navigate.
+
+However, their plan is fair. Yours isn't. You can roll over them, you just need to survive the early to midgame.
+
+Game one is all about being able to stabilize your life while keeping your Lightning Axes in hand.
+Why? Because that bitch Sheoldred needs to be killed on sight. You have 4 Lightning Axes in total, they have 2-3 Sheoldred and she needs to go.
+If Sheoldred hits, your outs are significantly more complicated: you have Sleight of Hand and the Grave Fillers (potentially Narset, if you have her).
+Everything else is 2 to the face in a match where you need to stem the bleeding.
+
+Graveyard Trespasser can be a bit weird cause you don't mind him that much if he hits the board before Phoenixes are in the grave, as he can proactively help you bin useless cards (or Phoenixes) from the hand to fuel a Cruise. On the other hand, it really sucks when he comes in the turn before you blowout, or when it becomes night and you face the decision of shipping the axe you're saving for Sheoldred along with an extra discard. Not cool.
+
+The moment you resolve a Cruise, is usually the moment you win. You did the unfair thing and went over their 2-color boomer Jund plan.
+The thing is you really shouldn't resolve a Cruise with a Sheoldred on board unless you _really_ have to.
+
+Post-sideboard is when the answer to "who goes first?" might not be what you expect.
+A lot of people who play this match believe that being on the draw is better for both sides post sideboard.
+
+The match usually revolves around hand disruption and sticking big threats on the board for their side, versus threat removal and sticking incremental value creatures on your side.
+Since they have both Thoughtseize and are bringing in Go Blank and possibly Ashiok as well, you can no longer rely on flooding them with card advantage.
+
+Some people like to leave Spell Pierce in this match, to take care of [Fable of the Mirror-Breaker](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki), [Go Blank](https://scryfall.com/card/stx/72/go-blank)'s and [Bankbuster](https://scryfall.com/card/neo/255/reckoner-bankbuster).
+Others like to take them out because we can deal with these threats by going around them.
+I'm not here to tell you what's best.
+Personally, I think the call here is extremely meta-dependent because you don't commit too much of the sideboard to deal with a specific match, but if there's the option, I'd rather take the Pierces out and bring in some specific hate. However, Rakdos Midrange usually brings mostly noncreature spells from the side to deal with you, so there's an argument to not only keep the Pierces, but to consider adding Negates to the show.
+
+Cards you bring in are 2-for-1's and artifact removal (for [Bankbussy](https://scryfall.com/card/neo/255/reckoner-bankbuster) and [Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse)).
+
+MD threats: [Sheoldred, the Apocalypse](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse), [Graveyard Trespasser](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton), [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)
+SB threats: [Duress](https://scryfall.com/card/usg/132/duress), [Go Blank](https://scryfall.com/card/stx/72/go-blank), [Unlicensed Hearse](https://scryfall.com/card/snc/246/unlicensed-hearse), [Reckoner Bankbuster](https://scryfall.com/card/neo/255/reckoner-bankbuster), [The End](https://scryfall.com/card/woe/87/the-end), [Ashiok, Dream Render](https://scryfall.com/card/war/228/ashiok-dream-render)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake), [Prismari Command](https://scryfall.com/card/lcc/279/prismari-command), [Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Beacon Bolt](https://scryfall.com/card/grn/154/beacon-bolt), Planeswalkers (that can interact with the board and/or give you card advantage)
+
+## Rakdos Vampires
+The Pro Tour Karlov winner is all about embracing [Vein Ripper](https://scryfall.com/card/pmkm/110s/vein-ripper) as soon as turn 3 and hit you with a ton of non ETB creatures you don't really care much about.
+Wait, what?
+
+I'm being somewhat dishonest here, the deck pack's a punch, and it _can_ be as hard to deal with as classic Rakdos Midrange, but since there's usually no Sheoldred in it, you can more safely waltz around the answers needed.
+
+The Thoughtseizes are present, but good Vampire players will use it advance their game state rather than hinder yours. They'll hand disrupt you before trying to go for the Sorin/Veinripper combo to see if the coast is clear.
+
+Veinripper's ward can be bypassed by a very modest Picklock Sacrifice if you are on the play.
+You might have to actually lose card equity (and a significant life swing) if you are on the draw and didn't have Spell Pierce up to to deal with Sorin.
+
+The rest of the game is mostly a back and forth game that you should win as long as their Fable or Preacher get out of hand.
+
+For a while, people were advocating [Tears of Valakut](https://scryfall.com/card/ogw/118/tears-of-valakut) as a sideboard card to bring in to this match, as it bypasses Vein Ripper's ward ability.
+Although I do understand the argument, it seems like overcommitment. It's a card you have no more targets for ([Archfiend of the Dross](https://scryfall.com/card/one/82/archfiend-of-the-dross) has 6 toughness) in a deck with hand disruption. Aside from the mirror I wouldn't bring this card against anything else (I haven't seen spirits in a while, and rending voley is clearly better for both these cases).
+
+Cards you bring in are 2 for 1's, counter magic, high damage spells, bounce spells.
+
+MD threats: [Vein Ripper](https://scryfall.com/card/pmkm/110s/vein-ripper), [Thoughtseize](https://scryfall.com/card/2xm/109/thoughtseize)
+SB threats: [Duress](https://scryfall.com/card/usg/132/duress), [Go Blank](https://scryfall.com/card/stx/72/go-blank), [Ashiok, Dream Render](https://scryfall.com/card/war/228/ashiok-dream-render), [Leyline of the Void](https://scryfall.com/card/m20/107/leyline-of-the-void)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake),[Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Beacon Bolt](https://scryfall.com/card/grn/154/beacon-bolt), [Negate](https://scryfall.com/card/sta/18/negate), [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft)
+
+### UW Control
+Tense matchup. Be prepared to deck out.
+
+This whole match is filled with subtleties that force you to play carefully but, due to time constraints, you also need to play fast.
+So buckle up, and try to understand what's important in the match, and to a a certain extent, what actually isn't.
+
+Starting at the end of turn 4 they can try to do the Wanderer EoT into Teferi, Hero of Dominaria curve.
+You can either not attack turn 4, attack with a Phoenix and use removal on your own Phoenix so it doesn't get exiled from the Wanderer, or try to go into a counter war.
+The issue here is that just passing buys them time.
+
+As long as you keep using your mana, you should be fine.
+
+There's a significant amount of exile removal from them from cards like [March of Otherworldly Light](https://scryfall.com/card/neo/28/march-of-otherworldly-light), The Wandering Emperor, [Sunfall](https://scryfall.com/card/mom/40/sunfall) or [Settle the Wreckage](https://scryfall.com/card/xln/34/settle-the-wreckage).
+
+Your 8 removal spells are almost useless here, as their only role is targetting your own Phoenixes so you can save them from being exiled.
+
+You used to be able to out tempo them by hardcasting Phoenix and forcing a spell, only to bring the birds back once again, but with [No More Lies](https://scryfall.com/card/mkm/221/no-more-lies) now in the mix, there's yet another thing that you have to play around.
+
+So what's the plan?
+
+Game 1, if you have the turns package in the 60, your best bet is to control the flow of spell usage and keep the Spell Pierces in hand untill they are _absolutely_ necessary.
+The usual scenario is you stick a Shredder, you try to grow it, it will attack once or twice until it is removed.
+You stick another bird, rinse and repeat.
+Eventually you try to bring out all the Phoenixes you've been binning while trying to fork a Trespass.
+Problem here is they might have [Hallowed Moonlight](https://scryfall.com/card/ori/16/hallowed-moonlight) in the main.
+The issue is that you will often not be able to play around everything, and if you try to, you will deck out.
+You will eventually have to exchange resources.
+
+Some versions are now running a [Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils) package.
+Be careful with your Ledger Shredder triggers, and they will hinder you.
+Phoenixes can be hardcast to deal with her, if the need rises.
+
+Game 2 it becomes a control fest.
+
+Cards you bring are 2 for 1's, counterspells, and Planeswalkers.
+
+MD threats: [The Wandering Emperor](https://scryfall.com/card/neo/42/the-wandering-emperor), [Sunfall](https://scryfall.com/card/mom/40/sunfall), [Narset, Parter of Veils](https://scryfall.com/card/cmm/853/narset-parter-of-veils)
+SB threats: [Settle the Wreckage](https://scryfall.com/card/xln/34/settle-the-wreckage), [High Noon](https://scryfall.com/card/otj/15/high-noon), [Rest in Peace](https://scryfall.com/card/a25/32/rest-in-peace), [Shark Typhoon](https://scryfall.com/card/otc/113/shark-typhoon)
+Our SB options: [Crackling Drake](https://scryfall.com/card/rvr/174/crackling-drake),[Young Pyromancer](https://scryfall.com/card/otc/185/young-pyromancer), [Negate](https://scryfall.com/card/sta/18/negate), [Brazen Borrower](https://scryfall.com/card/eld/39/brazen-borrower-petty-theft), [Mystical Dispute](https://scryfall.com/card/pr23/1/mystical-dispute)
