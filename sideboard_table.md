@@ -20,15 +20,10 @@ title: "Sideboard Guide Table"
             <tr>
                 <td>{{ post.title }}</td>
                 <td>
-                    {% capture content %}
-                        {{ post.content | split: "### Cards In" | last }}
-                    {% endcapture %}
-                    {% capture content %}
-                        {{ content | split: "### Cards Out" | first }}
-                    {% endcapture %}
-                    {% assign cards_in_list = content | newline_to_br | split: '<br />' %}
+                    {% assign cards_in_start = post.content | split: "### Cards In" | last %}
+                    {% assign cards_in_content = cards_in_start | split: "### Cards Out" | first %}
                     <ul>
-                        {% for line in cards_in_list %}
+                        {% for line in cards_in_content | newline_to_br | split: '<br />' %}
                             {% if line contains '-' %}
                                 <li>{{ line | remove: '-' | strip }}</li>
                             {% endif %}
@@ -36,15 +31,10 @@ title: "Sideboard Guide Table"
                     </ul>
                 </td>
                 <td>
-                    {% capture content %}
-                        {{ post.content | split: "### Cards Out" | last }}
-                    {% endcapture %}
-                    {% capture content %}
-                        {{ content | split: "### Notes" | first }}
-                    {% endcapture %}
-                    {% assign cards_out_list = content | newline_to_br | split: '<br />' %}
+                    {% assign cards_out_start = post.content | split: "### Cards Out" | last %}
+                    {% assign cards_out_content = cards_out_start | split: "### Notes" | first %}
                     <ul>
-                        {% for line in cards_out_list %}
+                        {% for line in cards_out_content | newline_to_br | split: '<br />' %}
                             {% if line contains '-' %}
                                 <li>{{ line | remove: '-' | strip }}</li>
                             {% endif %}
@@ -52,12 +42,9 @@ title: "Sideboard Guide Table"
                     </ul>
                 </td>
                 <td>
-                    {% capture content %}
-                        {{ post.content | split: "### Notes" | last }}
-                    {% endcapture %}
-                    {% assign notes_list = content | newline_to_br | split: '<br />' %}
+                    {% assign notes_content = post.content | split: "### Notes" | last %}
                     <ul>
-                        {% for line in notes_list %}
+                        {% for line in notes_content | newline_to_br | split: '<br />' %}
                             {% if line contains '-' %}
                                 <li>{{ line | remove: '-' | strip }}</li>
                             {% endif %}
