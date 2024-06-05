@@ -13,7 +13,7 @@ There's a few people and communities you can reach out for further (or better!) 
 
 Used to be my favourite place to tackle and ask away questions about general phoenix (also has a section for UR Control).
 
-## [Kannister's _I will teach you Pioneer Phoenix_ ](https://youtu.be/53DKqeVLLkk)
+## [Kanister's _I will teach you Pioneer Phoenix_ ](https://youtu.be/53DKqeVLLkk)
 
 Learn from the Polish robot himself.
 
