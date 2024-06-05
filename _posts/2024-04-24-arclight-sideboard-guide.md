@@ -11,8 +11,8 @@ image: crackling_drake.jpg
 
 ## Quick and Dirty Guide
 
+[Pepeteam's latest decklist](https://mtgdecks.net/Pioneer/izzet-phoenix-decklist-by-pepeteam-2074120) is as vanilla as it comes, and is a great starting point.
 
+![Pepeteam's Challenge 64 #12643072]({{ site.baseurl }}/assets/img/deck-2074120.png)
 
-## Go ahead and adapt it
-
-[DIY Sideboard Guide]({{ site.github.url }}{% post_url 2024-06-03-diy-sideboard %})
+[Link to Flexslot Sideboard Guide](https://flexslot.gg/sideboards/3618/view)
