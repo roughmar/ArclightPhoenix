@@ -20,34 +20,43 @@ title: "Sideboard Guide Table"
             <tr>
                 <td>{{ post.title }}</td>
                 <td>
-                    {% assign in_cards = post.content | split: "### Cards In" | last | split: "### Cards Out" | first %}
+                    {% assign content = post.content | split: '### Cards In' %}
+                    {% assign cards_in_section = content[1] | split: '### Cards Out' %}
+                    {% assign cards_in = cards_in_section[0] %}
                     <ul>
-                        {% for card in in_cards | split: '\n' %}
-                            {% if card contains '- ' %}
-                                <li>{{ card | remove: '-' | strip }}</li>
+                        {% for line in cards_in | newline_to_br | split: '<br />' %}
+                            {% if line contains '-' %}
+                                <li>{{ line | remove: '-' | strip }}</li>
                             {% endif %}
                         {% endfor %}
                     </ul>
                 </td>
                 <td>
-                    {% assign out_cards = post.content | split: "### Cards Out" | last | split: "### Notes" | first %}
+                    {% assign content = post.content | split: '### Cards Out' %}
+                    {% assign cards_out_section = content[1] | split: '### Notes' %}
+                    {% assign cards_out = cards_out_section[0] %}
                     <ul>
-                        {% for card in out_cards | split: '\n' %}
-                            {% if card contains '- ' %}
-                                <li>{{ card | remove: '-' | strip }}</li>
+                        {% for line in cards_out | newline_to_br | split: '<br />' %}
+                            {% if line contains '-' %}
+                                <li>{{ line | remove: '-' | strip }}</li>
                             {% endif %}
                         {% endfor %}
                     </ul>
                 </td>
                 <td>
-                    {% assign notes = post.content | split: "### Notes" | last %}
-                    <ul>
-                        {% for note in notes | split: '\n' %}
-                            {% if note contains '- ' %}
-                                <li>{{ note | remove: '-' | strip }}</li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
+                    {% assign notes_section = post.content | split: '### Notes' %}
+                    {% if notes_section.size > 1 %}
+                        {% assign notes = notes_section[1] %}
+                        <ul>
+                            {% for line in notes | newline_to_br | split: '<br />' %}
+                                {% if line contains '-' %}
+                                    <li>{{ line | remove: '-' | strip }}</li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    {% else %}
+                        <p>No notes available.</p>
+                    {% endif %}
                 </td>
             </tr>
         {% endfor %}
