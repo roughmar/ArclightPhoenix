@@ -20,36 +20,60 @@ title: "Sideboard Guide Table"
             <tr>
                 <td>{{ post.title }}</td>
                 <td>
-                    {% assign cards_in_start = post.content | split: "### Cards In" | last %}
-                    {% assign cards_in_content = cards_in_start | split: "### Cards Out" | first %}
-                    <ul>
-                        {% for line in cards_in_content | newline_to_br | split: '<br />' %}
-                            {% if line contains '-' %}
-                                <li>{{ line | remove: '-' | strip }}</li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
+                    {% assign cards_in_start = post.content | split: "### Cards In" %}
+                    {% if cards_in_start.size > 1 %}
+                        {% assign cards_in_content = cards_in_start[1] | split: "### Cards Out" %}
+                        {% if cards_in_content.size > 1 %}
+                            {% assign cards_in_list = cards_in_content[0] | newline_to_br | split: '<br />' %}
+                            <ul>
+                                {% for line in cards_in_list %}
+                                    {% if line contains '-' %}
+                                        <li>{{ line | remove: '-' | strip }}</li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                        {% else %}
+                            <p>No cards in.</p>
+                        {% endif %}
+                    {% else %}
+                        <p>No cards in.</p>
+                    {% endif %}
                 </td>
                 <td>
-                    {% assign cards_out_start = post.content | split: "### Cards Out" | last %}
-                    {% assign cards_out_content = cards_out_start | split: "### Notes" | first %}
-                    <ul>
-                        {% for line in cards_out_content | newline_to_br | split: '<br />' %}
-                            {% if line contains '-' %}
-                                <li>{{ line | remove: '-' | strip }}</li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
+                    {% assign cards_out_start = post.content | split: "### Cards Out" %}
+                    {% if cards_out_start.size > 1 %}
+                        {% assign cards_out_content = cards_out_start[1] | split: "### Notes" %}
+                        {% if cards_out_content.size > 1 %}
+                            {% assign cards_out_list = cards_out_content[0] | newline_to_br | split: '<br />' %}
+                            <ul>
+                                {% for line in cards_out_list %}
+                                    {% if line contains '-' %}
+                                        <li>{{ line | remove: '-' | strip }}</li>
+                                    {% endif %}
+                                {% endfor %}
+                            </ul>
+                        {% else %}
+                            <p>No cards out.</p>
+                        {% endif %}
+                    {% else %}
+                        <p>No cards out.</p>
+                    {% endif %}
                 </td>
                 <td>
-                    {% assign notes_content = post.content | split: "### Notes" | last %}
-                    <ul>
-                        {% for line in notes_content | newline_to_br | split: '<br />' %}
-                            {% if line contains '-' %}
-                                <li>{{ line | remove: '-' | strip }}</li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
+                    {% assign notes_start = post.content | split: "### Notes" %}
+                    {% if notes_start.size > 1 %}
+                        {% assign notes_content = notes_start[1] %}
+                        {% assign notes_list = notes_content | newline_to_br | split: '<br />' %}
+                        <ul>
+                            {% for line in notes_list %}
+                                {% if line contains '-' %}
+                                    <li>{{ line | remove: '-' | strip }}</li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    {% else %}
+                        <p>No notes available.</p>
+                    {% endif %}
                 </td>
             </tr>
         {% endfor %}
