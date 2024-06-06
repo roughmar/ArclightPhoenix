@@ -18,11 +18,11 @@ image: opt.webp
    1. [What to expect from a 7 hander](#what-to-expect-from-a-7-hander)
    2. [Ship it. Do it often.](#aggro-mulligan)
 3. [Quantum State](#quantum-state)
-   1. [The concept of Air](#air-concept)
+   1. [The concept of Air](#air)
    3. [Embracing the Uncertainty](#embracing-the-uncertainty)
    2. [Topdeck Mode](#topdeck-mode)
 4. [Card Notes - Core](#card-notes-core)
-   1. [Air](#air-cards)
+   1. [Air](#air-package)
       1. [Sleight of Hand](#sleight-of-hand)
       2. [Consider](#consider)
       3. [Opt](#opt)
@@ -207,7 +207,7 @@ You bin that bastard.
 
 
 ## Card Notes - Core
-### Air
+### Air Package
 Air, or the card selection cantrips, are what allows this deck to exist. You breathe through it, and more often than not it stokes the flame for Arclight to come back to life.
 
 Traditionally we used to have only 8 good cantrips, with some people trying out cards like [Crash Through](https://scryfall.com/card/m19/133/crash-through) or [Quicken](https://scryfall.com/card/gpt/31/quicken) to increase their density but often giving up due to the fact that you couldn't manipulate anything.
