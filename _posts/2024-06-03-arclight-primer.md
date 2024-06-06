@@ -189,6 +189,7 @@ Phoenix has the particularity that sometimes you might hit Topdeck Mode with a f
 
 > If all your cards are Air, are you in Topdeck Mode?
 
+#### Actual Topdecking/Being Hellbent
 All the times you are in Topdeck Mode, you are practicing topdecking (ha!).
 Remember all the cantrips and what they usually see?
 Remember only running 17-19 lands in the whole deck?
@@ -198,7 +199,7 @@ _Or the Treasure Cruise that will get you back in the game._
 
 You need to have some *discipline*, however.
 
->Let's assume you are topdecking and the card on top is a Consider.
+>Let's assume you are hellbent, and the card you draw is a Consider.
 You cast consider and you see a Shredder.
 That Shredder will not get you out of Topdeck Mode.
 You bin that bastard.
