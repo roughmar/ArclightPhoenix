@@ -198,8 +198,8 @@ _Or the Treasure Cruise that will get you back in the game._
 
 You need to have some *discipline*, however.
 
->Let's assume you topdecking and the card on top is a Consider.
-You cast consider you see  a Shredder.
+>Let's assume you are topdecking and the card on top is a Consider.
+You cast consider and you see a Shredder.
 That Shredder will not get you out of Topdeck Mode.
 You bin that bastard.
 
