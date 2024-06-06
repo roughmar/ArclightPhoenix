@@ -26,4 +26,11 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+.block-section {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
 @import "-sections-dir";
