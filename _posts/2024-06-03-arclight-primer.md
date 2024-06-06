@@ -192,21 +192,23 @@ Phoenix has the particularity that sometimes you might hit Topdeck Mode with a f
 All the times you are in Topdeck Mode, you are practicing topdecking (ha!).
 Remember all the cantrips and what they usually see?
 Remember only running 17-19 lands in the whole deck?
-When you are topdecking, the probability that you will hit something that will get you out of that situation, is very high. It make make you work for it, but you can accelerate the speed it will take you to see a Picklock Prankster that will get you out of this mess.
-The Treasure Cruise that will get you back in the game.
+When you are topdecking, the probability that you will hit something that will get you out of that situation, is very high. It might make you work for it, but you can accelerate the speed it will take you to see a Picklock Prankster that will get you out of this mess.
+_Or the Treasure Cruise that will get you back in the game._
 
 You need to have some discipline, however.
 
 >Let's assume you topdecking and the card on top is a Consider.
 You cast consider you see  a Shredder.
-That Shredder will not get you out of Topdeck Mode. You bin that bastard.
-Even if the card after him is a Land, _you are one card ahead to finding what you need to come out on top_.
+That Shredder will not get you out of Topdeck Mode.
+You bin that bastard.
+
+>Even if the card after him is a Land, _you are one card ahead to finding what you need to come out on top_.
 
 
 
 ## Card Notes - Core
 ### Air
-Air, or the card selection cantrips, are what allows this deck to exist. You Breathe through it, and more other than not it stokes the flame for Arclight to come back to life.
+Air, or the card selection cantrips, are what allows this deck to exist. You breathe through it, and more often than not it stokes the flame for Arclight to come back to life.
 
 Traditionally we used to have only 8 good cantrips, with some people trying out cards like [Crash Through](https://scryfall.com/card/m19/133/crash-through) or [Quicken](https://scryfall.com/card/gpt/31/quicken) to increase their density but often giving up due to the fact that you couldn't manipulate anything.
 
@@ -244,7 +246,7 @@ The only issue with casting Consider in the beginning is if you bin something th
 #### Should you use Air turn 1?
 It depends.
 Do you know what you want the card on the top to be?
-If there answer is yes, you probably should.
+If the answer is yes, you probably should.
 If the answer is no (as in, you both need the land drop and a removal spell), you should probably want to see what you get on the drawstep and make an informed decision from it.
 
 The other main reason to hold cantrips in the beginning is [Ledger Shredder](https://scryfall.com/card/snc/46/ledger-shredder). Being able to connive away bad cards you have, get fuel for delve cards, or just be able to make it grow to 4 toughness can be reasonable arguments to hold your Air in hand.
@@ -255,7 +257,7 @@ Permission matchups, like UW Control, also are the ones where I hold my Air the 
 >A very specific nuance is in the mirror.
 >On the draw, you might want to Consider turn 1, to make sure the Fiery Impulse you have in hand can kill the Ledger Shredder the opponent just played.
 
-There's no rule set in stone, try to understand the dance of what you require in hand to advance your game state, as well as what (if!) you require to hinder your opponents'.
+There's no rule set in stone. Try to understand the balance between what you need in hand to advance your game state and what (if anything) you need to hinder your opponents'.
 
 ### Single Target Removal
 There’s really not much to talk about here; you kill everything on sight.
@@ -281,9 +283,10 @@ Be careful that post-sideboard, you might be milling away your win conditions. A
 + 2 for 1
 
 When Wild of Eldraine came out, Phoenix lists were sort of scattered.
-Thing in the Ice vs Ledger Shredder vs Demilich
-What to take out to put Sleight of Hand in?
-Is this Fairy the real deal?
+
+- Thing in the Ice vs Ledger Shredder vs Demilich
+- What to take out to put Sleight of Hand in?
+- Is this Fairy the real deal?
 
 Over time Demilich and TiTi went into hiding (mostly due to meta reasons), but so did Pieces of the Puzzle.
 There's only one established player who still plays with it with [good results](https://mtgdecks.net/Pioneer/izzet-phoenix-decklist-by-gul-dukat-2042057) but even he is starting to move away and potentially adopt the adventure creature.
@@ -320,12 +323,13 @@ Being able to remember the connive triggers on paper can be tricky sometimes, an
 >You cantrip, find a Fiery Impulse, and even though spell mastery is online, you will trigger connive if you cast it. You can wait for the opponents turn to cast Fiery, but he might double spell in response and grow Shredder out of reach, or just Spell Pierce it.
 The option you have, is casting another spell, triggering connive, and with it on the stack, casting your Fiery Impulse.
 
-Shredder brought a mini game into the battlefield that's both skill intensive as well as extremely rewarding and it might take some time to get used to it.
+Shredder introduced a skill-intensive and highly rewarding mini-game to the battlefield, which might take some time to get used to.
 
 #### [Thing in the Ice](https://scryfall.com/card/soi/92/thing-in-the-ice-awoken-horror)
 
 The meta breaker.
-[Hullbreaker Horror](https://scryfall.com/card/clb/724/hullbreaker-horror) used to be present as a 2 mana threat that would flip the battlefield upside down and start breaking unsuspecting faces. Despite not having that much presence lately, it sometimes still shows as a 1-2 off in the flex slot, or as a sideboard card.
+
+[Hullbreaker Horror](https://scryfall.com/card/clb/724/hullbreaker-horror)(yeah, it's the same guy!) used to be present as a 2 mana threat that would flip the battlefield upside down and start breaking unsuspecting faces. Despite not having that much presence lately, it sometimes still shows as a 1-2 off in the flex slot, or as a sideboard card.
 If the Pioneer meta ever starts becoming focused on the battlefield again, expect to see it pop up.
 
 ### Flex Slots
@@ -347,12 +351,13 @@ I don't think you are ever _really_ happy to see them, but at the same time, you
 The easy answer is that the opportunity cost is too low.
 
 [Spikefield Hazard](https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave) used to have it's uses against [Llanowar Elves](https://scryfall.com/card/gn3/101/llanowar-elves) or [Thalia](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben), and the exile clause actually was relevant against either [Mono Green](https://scryfall.com/card/khm/185/old-growth-troll), [Mono White](https://scryfall.com/card/snc/12/extraction-specialist) or [Greasefang](https://scryfall.com/card/mid/213/cant-stay-away).
+It made [cat](https://scryfall.com/card/jmp/216/cauldron-familiar)-[oven](https://scryfall.com/card/eld/237/witchs-oven) be humble and could respond to [Kroxa](https://scryfall.com/card/thb/221/kroxa-titan-of-deaths-hunger) in an elegant manner (although still a 2-for-1)
 Being able to trigger the third spell on an empty board for Phoenixes, being able to target Planeswalkers or actually going to face (hey, I've forked my fair share of Spikefields) made the card relevant.
 
 The case for [Jwari Disruption](https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins) followed swiftly.
 Sleight of hand really made the deck further tend towards blue, and post sideboard some matches are really blue heavy. Having a soft counter to *any* spell on the format that can usually trade up on mana and that you can always use as a land when it's too late, as long as you can sequence your early in a way you don't shoot yourself in the foot seems like a no brainer.
 
-All of this on a land that could be seen by your [grave fillers](#grave-fillerscard-selection), for the low cost of it coming into play tapped.
+All of this is on a land that can be seen by your [grave fillers](#grave-fillerscard-selection) or pump a Shredder when discarded (the front side is a spell), for the low cost of coming into play tapped.
 
 ### Sideboard Pieces
 
@@ -364,9 +369,10 @@ Mystical Dispute
 
 ## Problem Cards
 
+(Still being worked)
 ### Ashiok, Dream Render
 ### Go Blank
-### Deafening Clarion
+### Deafening Silence
 ### Rest in Peace
 ### Leyline of the Void
 ### Narset, Parter of Veils
