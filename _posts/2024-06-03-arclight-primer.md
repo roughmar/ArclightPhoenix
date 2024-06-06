@@ -40,8 +40,7 @@ image: opt.webp
       1. [Spell Pierce](#spell-pierce)
       2. [MDFC's](#mdfcs)
    7. [Sideboard Pieces](#sideboard-pieces)
-5. [Matchups](#matchups)
-6. [Problem Cards](#problem-cards)
+5. [Problem Cards](#problem-cards)
 
 ## Introduction
 
@@ -298,7 +297,8 @@ Personally, I believe there might be a space for Pieces in the future, if the fo
 ### Delve Spells
 
 Before we go any further, this section is here to try to make it very clear:  you just can't take more than 5 delve spells.
-You don't want they stuck in your hand, and you just can't fuel them all. 5 is the sweet spot.
+
+You don't want them stuck in your hand, and you just can't fuel them all. 5 is the sweet spot.
 Sometimes you will see a single Treasure Cruise in a sideboard slot on some lists with 2 Trespass in the main - you are supposed to take the Trespass out.
 
 #### Turns Package
@@ -353,21 +353,14 @@ I don't think you are ever _really_ happy to see them, but at the same time, you
 The easy answer is that the opportunity cost is too low.
 
 [Spikefield Hazard](https://scryfall.com/card/znr/166/spikefield-hazard-spikefield-cave) used to have it's uses against [Llanowar Elves](https://scryfall.com/card/gn3/101/llanowar-elves) or [Thalia](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben), and the exile clause actually was relevant against either [Mono Green](https://scryfall.com/card/khm/185/old-growth-troll), [Mono White](https://scryfall.com/card/snc/12/extraction-specialist) or [Greasefang](https://scryfall.com/card/mid/213/cant-stay-away).
-It made [cat](https://scryfall.com/card/jmp/216/cauldron-familiar)-[oven](https://scryfall.com/card/eld/237/witchs-oven) be humble and could respond to [Kroxa](https://scryfall.com/card/thb/221/kroxa-titan-of-deaths-hunger) in an elegant manner (although still a 2-for-1)
+It made [cat](https://scryfall.com/card/jmp/216/cauldron-familiar)-[oven](https://scryfall.com/card/eld/237/witchs-oven) be humble and could respond to [Kroxa](https://scryfall.com/card/thb/221/kroxa-titan-of-deaths-hunger) in an elegant manner (although still a 2-for-1).
+
 Being able to trigger the third spell on an empty board for Phoenixes, being able to target Planeswalkers or actually going to face (hey, I've forked my fair share of Spikefields) made the card relevant.
 
 The case for [Jwari Disruption](https://scryfall.com/card/znr/64/jwari-disruption-jwari-ruins) followed swiftly.
 Sleight of hand really made the deck further tend towards blue, and post sideboard some matches are really blue heavy. Having a soft counter to *any* spell on the format that can usually trade up on mana and that you can always use as a land when it's too late, as long as you can sequence your early in a way you don't shoot yourself in the foot seems like a no brainer.
 
 All of this is on a land that can be seen by your [grave fillers](#grave-fillerscard-selection) or pump a Shredder when discarded (the front side is a spell), for the low cost of coming into play tapped.
-
-### Sideboard Pieces
-
-#### Counterspells
-Negate
-Mystical Dispute
-## [Matchups]({{ site.baseurl }}{% post_url 2024-06-05-matchups %})
-
 
 ## Problem Cards
 
