@@ -147,7 +147,7 @@ There's no board presence, but again, we can find it.
 
 This is the type of hand a lot of people will say is a mulligan because it does nothing.
 This is the type of hand people looking at you play will say you were lucky because you had nothing.
-This is a [Quantum]({{ site.baseurl }}{% post_url 2024-06-03-arclight-primer#quantum-state %}) hand. There's a lot of variance in it, and sometimes it'll whiff, but you need to play for the outs.
+This is a [Quantum]({{ site.baseurl }}{% post_url 2024-06-03-arclight-primer %}#quantum-state) hand. There's a lot of variance in it, and sometimes it'll whiff, but you need to play for the outs.
 
 ![Sneep 3](assets/img/hand-sneep-3.png)
 

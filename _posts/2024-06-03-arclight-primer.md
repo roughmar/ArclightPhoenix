@@ -159,7 +159,8 @@ It's due to this Air that you can recycle your hands and bring your Phoenixes ba
 The cards in your hand can be swapped with connive triggers from Ledger Shredder, or be sent away with a Lightning Axe. You can loot them with a Charm or Command.
 
 Every single card in the top of your deck can be either there, go to your hand, be in your grave or on the bottom of the library.
-You can often look at it and decide upon it, unlike Schrodinger's Cat, and take an informed decision.
+
+>Unlike Schrödinger's Cat, you can decide the outcome after you take a look.
 
 Sometimes you need to Embrace the Quantum state and let the wheel turn.
 Sometimes you will Cruise, sometimes you will Free the Fae/Pieces.
