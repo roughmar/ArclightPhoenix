@@ -192,10 +192,11 @@ Phoenix has the particularity that sometimes you might hit Topdeck Mode with a f
 All the times you are in Topdeck Mode, you are practicing topdecking (ha!).
 Remember all the cantrips and what they usually see?
 Remember only running 17-19 lands in the whole deck?
-When you are topdecking, the probability that you will hit something that will get you out of that situation, is very high. It might make you work for it, but you can accelerate the speed it will take you to see a Picklock Prankster that will get you out of this mess.
+When you are topdecking, the probability that you will hit something that will get you out of that situation, is very high. The deck might make you work for it, but you can accelerate the speed it will take you to see the Picklock Prankster that will get you out of this mess.
+
 _Or the Treasure Cruise that will get you back in the game._
 
-You need to have some discipline, however.
+You need to have some *discipline*, however.
 
 >Let's assume you topdecking and the card on top is a Consider.
 You cast consider you see  a Shredder.
