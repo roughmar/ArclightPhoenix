@@ -303,7 +303,7 @@ Sometimes you will see a single Treasure Cruise in a sideboard slot on some list
 
 #### Turns Package
 
-The most over the top thing this deck does. The number one reason you are able to steal away pre sideboarded games, and ironically, the cards that more often that not, rotate out games 2 and 3.
+The most over the top thing this deck does. The number one reason you are able to steal away pre sideboarded games, and ironically, the cards that more often that not, get cut games 2 and 3.
 
 The turns package give you inevitability game 1, pre graveyard hate, to just steal away games that you had no right to win.
 Making 2 extra turns and attacking with 2 phoenixes means 18 flying damage, with no further spells being cast, no [Hall of Storm Giants](https://scryfall.com/card/afr/257/hall-of-storm-giants) activation, nothing.
