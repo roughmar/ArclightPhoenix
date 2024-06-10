@@ -25,4 +25,6 @@ Learn from the Polish robot himself.
 
 - Hugo "Chester" Freitas (hugofreitas1) [@hugochaisman](https://twitter.com/hugochaisman)
 
+- Coleman Perret [@ColemanMtg](https://x.com/ColemanMtg) also on Discord - @colemanp
+
 There are a ton of content creators out there, I'll try and update this as time goes by
