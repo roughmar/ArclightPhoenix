@@ -44,7 +44,7 @@ image: opt.webp
 
 ## Introduction
 
-### Who and what is this for?
+### Who is this for?
 
 - This guide is intended for both new players approaching the Arclight Phoenix deck in Pioneer and veteran players looking to refresh their knowledge on card choices and concepts.
 
